@@ -1,0 +1,1044 @@
+Test Case 7: Raw Materials
+Test Case 7.1: Mandatory fields
+2024-06-28 12:21:53,475 - root - INFO - Login - Passed
+2024-06-28 12:21:53,475 - root - INFO - Login successful for Raw Material Test 01
+2024-06-28 12:21:57,160 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:21:57,197 - root - INFO - Clicking the rm button
+2024-06-28 12:21:57,247 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 12:21:57,274 - root - INFO - Clicking the new RM button
+2024-06-28 12:21:58,726 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 12:21:58,726 - root - INFO - Entering the RM name
+2024-06-28 12:21:58,835 - root - INFO - Name of the rm is entered in name field
+2024-06-28 12:21:58,835 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 12:21:58,865 - root - INFO - Clicking the create button
+2024-06-28 12:22:04,436 - root - INFO - Raw Material creation was successful
+2024-06-28 12:22:04,436 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:22:04,455 - root - INFO - Clicking the rm button
+2024-06-28 12:22:04,512 - root - INFO - Clicking the search rm button
+2024-06-28 12:22:12,045 - root - INFO - Clicked the search rm button successfully
+2024-06-28 12:22:12,057 - root - INFO - Click field
+2024-06-28 12:22:12,130 - root - INFO - Clicking the search button
+2024-06-28 12:22:12,142 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 12:22:13,880 - root - INFO - Raw Material code: AC11063
+2024-06-28 12:22:13,880 - root - INFO - Raw Material creation successful
+2024-06-28 12:22:16,397 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:22:16,420 - root - INFO - Clicking the rm button
+2024-06-28 12:22:16,453 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 12:22:16,474 - root - INFO - Clicking the new RM button
+2024-06-28 12:22:18,194 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 12:22:18,218 - root - INFO - Entering the RM name
+2024-06-28 12:22:18,317 - root - INFO - Name of the rm is entered in name field
+2024-06-28 12:22:18,317 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 12:22:18,336 - root - INFO - Clicking the create button
+2024-06-28 12:22:23,778 - root - INFO - Raw Material creation was successful
+2024-06-28 12:22:23,778 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:22:23,804 - root - INFO - Clicking the rm button
+2024-06-28 12:22:23,854 - root - INFO - Clicking the search rm button
+2024-06-28 12:22:30,213 - root - INFO - Clicked the search rm button successfully
+2024-06-28 12:22:30,220 - root - INFO - Click field
+2024-06-28 12:22:30,288 - root - INFO - Clicking the search button
+2024-06-28 12:22:30,296 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 12:22:31,884 - root - INFO - Raw Material code: AC11064
+2024-06-28 12:22:31,886 - root - INFO - Raw Material creation successful
+2024-06-28 12:22:35,223 - root - INFO - Logout - Passed
+2024-06-28 12:22:35,223 - root - INFO - Logout successful for Raw Material Test 01
+
+Test Case 7.2: Empty Mandatory fields - PASSED
+2024-06-28 12:25:45,432 - root - INFO - Login - Passed
+2024-06-28 12:25:45,432 - root - INFO - Login successful for Raw Material Test 01
+2024-06-28 12:25:48,532 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:25:48,562 - root - INFO - Clicking the rm button
+2024-06-28 12:25:48,601 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 12:25:48,628 - root - INFO - Clicking the new RM button
+2024-06-28 12:25:50,082 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 12:25:50,096 - root - INFO - Entering the RM name
+2024-06-28 12:25:50,132 - root - INFO - Name of the rm is entered in name field
+2024-06-28 12:25:50,132 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 12:25:50,159 - root - INFO - Clicking the create button
+2024-06-28 12:26:02,542 - root - ERROR - An error occurred while creating raw material: Message: 
+2024-06-28 12:26:02,545 - root - ERROR - Raw Material creation unsuccessful
+2024-06-28 12:26:09,936 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:26:09,975 - root - INFO - Clicking the rm button
+2024-06-28 12:26:10,033 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 12:26:10,069 - root - INFO - Clicking the new RM button
+2024-06-28 12:26:11,399 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 12:26:11,413 - root - INFO - Entering the RM name
+2024-06-28 12:26:11,479 - root - INFO - Name of the rm is entered in name field
+2024-06-28 12:26:11,479 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 12:26:11,516 - root - INFO - Clicking the create button
+2024-06-28 12:26:23,569 - root - ERROR - An error occurred while creating raw material: Message: 
+2024-06-28 12:26:23,578 - root - ERROR - Raw Material creation unsuccessful
+2024-06-28 12:26:31,981 - root - INFO - Logout - Passed
+2024-06-28 12:26:31,981 - root - INFO - Logout successful for Raw Material Test 01
+
+Test Case 7.3: Automation of code - PASSED
+2024-06-28 12:33:51,311 - root - INFO - Login - Passed
+2024-06-28 12:33:51,311 - root - INFO - Login successful for Raw Material Test 01
+2024-06-28 12:33:54,139 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:33:54,164 - root - INFO - Clicking the rm button
+2024-06-28 12:33:54,209 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 12:33:54,232 - root - INFO - Clicking the new RM button
+2024-06-28 12:33:55,342 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 12:33:55,366 - root - INFO - Entering the RM name
+2024-06-28 12:33:55,490 - root - INFO - Name of the rm is entered in name field
+2024-06-28 12:33:55,490 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 12:33:55,523 - root - INFO - Selecting the type label
+2024-06-28 12:33:55,618 - root - INFO - Entering the selected type
+2024-06-28 12:33:55,702 - root - INFO - Entering the SAP code
+2024-06-28 12:33:55,808 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 12:33:55,819 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 12:33:55,893 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 12:33:55,903 - root - INFO - Entering the printed name
+2024-06-28 12:33:55,959 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 12:33:55,972 - root - INFO - Entering Ingridient description
+2024-06-28 12:33:56,043 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 12:33:56,052 - root - INFO - Entering EC number
+2024-06-28 12:33:56,139 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 12:33:56,158 - root - INFO - Entering CAS number
+2024-06-28 12:33:56,253 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 12:33:56,261 - root - INFO - Entering CAS2 number
+2024-06-28 12:33:56,323 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 12:33:56,323 - root - INFO - Clicking the legal status dropdown
+2024-06-28 12:33:56,394 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 12:33:56,460 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 12:33:56,517 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 12:33:56,546 - root - INFO - Clicking the create button
+2024-06-28 12:34:01,299 - root - INFO - Raw Material creation was successful
+2024-06-28 12:34:01,299 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:34:01,318 - root - INFO - Clicking the rm button
+2024-06-28 12:34:01,371 - root - INFO - Clicking the search rm button
+2024-06-28 12:34:03,863 - root - INFO - Clicked the search rm button successfully
+2024-06-28 12:34:03,888 - root - INFO - Click field
+2024-06-28 12:34:03,961 - root - INFO - Clicking the search button
+2024-06-28 12:34:03,971 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 12:34:05,116 - root - INFO - Raw Material code: AC11067
+2024-06-28 12:34:05,116 - root - INFO - Raw Material creation successful
+
+Test Case 7.4: Manually entering code - PASSED
+
+2024-06-28 12:34:07,465 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:34:07,485 - root - INFO - Clicking the rm button
+2024-06-28 12:34:07,526 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 12:34:07,549 - root - INFO - Clicking the new RM button
+2024-06-28 12:34:08,410 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 12:34:08,418 - root - INFO - Entering the RM name
+2024-06-28 12:34:08,523 - root - INFO - Name of the rm is entered in name field
+2024-06-28 12:34:08,523 - root - INFO - Turning off auto-generate code
+2024-06-28 12:34:08,568 - root - INFO - Auto-generate code turned off
+2024-06-28 12:34:08,582 - root - INFO - Entering code manually
+2024-06-28 12:34:08,650 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 12:34:08,668 - root - INFO - Selecting the type label
+2024-06-28 12:34:08,745 - root - INFO - Entering the selected type
+2024-06-28 12:34:08,771 - root - INFO - Entering the SAP code
+2024-06-28 12:34:08,832 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 12:34:08,842 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 12:34:08,894 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 12:34:08,902 - root - INFO - Entering the printed name
+2024-06-28 12:34:08,954 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 12:34:08,961 - root - INFO - Entering Ingridient description
+2024-06-28 12:34:09,026 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 12:34:09,032 - root - INFO - Entering EC number
+2024-06-28 12:34:09,099 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 12:34:09,108 - root - INFO - Entering CAS number
+2024-06-28 12:34:09,175 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 12:34:09,181 - root - INFO - Entering CAS2 number
+2024-06-28 12:34:09,247 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 12:34:09,247 - root - INFO - Clicking the legal status dropdown
+2024-06-28 12:34:09,314 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 12:34:09,377 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 12:34:09,428 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 12:34:09,448 - root - INFO - Clicking the create button
+2024-06-28 12:34:13,833 - root - INFO - Raw Material creation was successful
+2024-06-28 12:34:13,834 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:34:13,854 - root - INFO - Clicking the rm button
+2024-06-28 12:34:13,901 - root - INFO - Clicking the search rm button
+2024-06-28 12:34:16,492 - root - INFO - Clicked the search rm button successfully
+2024-06-28 12:34:16,501 - root - INFO - Click field
+2024-06-28 12:34:16,566 - root - INFO - Clicking the search button
+2024-06-28 12:34:16,577 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 12:34:17,700 - root - INFO - Raw Material code: E7485
+2024-06-28 12:34:17,700 - root - INFO - Raw Material creation successful
+2024-06-28 12:34:21,063 - root - INFO - Logout - Passed
+2024-06-28 12:34:21,063 - root - INFO - Logout successful for Raw Material Test 01
+
+Test Case 7.5: Re-entering used code - PASSED
+2024-06-28 12:36:32,393 - root - INFO - Login - Passed
+2024-06-28 12:36:32,393 - root - INFO - Login successful for Raw Material Test 01
+2024-06-28 12:36:34,106 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:36:34,139 - root - INFO - Clicking the rm button
+2024-06-28 12:36:34,193 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 12:36:34,226 - root - INFO - Clicking the new RM button
+2024-06-28 12:36:35,241 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 12:36:35,253 - root - INFO - Entering the RM name
+2024-06-28 12:36:35,387 - root - INFO - Name of the rm is entered in name field
+2024-06-28 12:36:35,387 - root - INFO - Turning off auto-generate code
+2024-06-28 12:36:35,445 - root - INFO - Auto-generate code turned off
+2024-06-28 12:36:35,455 - root - INFO - Entering code manually
+2024-06-28 12:36:35,534 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 12:36:35,562 - root - INFO - Selecting the type label
+2024-06-28 12:36:35,650 - root - INFO - Entering the selected type
+2024-06-28 12:36:35,692 - root - INFO - Entering the SAP code
+2024-06-28 12:36:35,764 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 12:36:35,775 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 12:36:35,842 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 12:36:35,853 - root - INFO - Entering the printed name
+2024-06-28 12:36:35,918 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 12:36:35,927 - root - INFO - Entering Ingridient description
+2024-06-28 12:36:36,007 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 12:36:36,018 - root - INFO - Entering EC number
+2024-06-28 12:36:36,095 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 12:36:36,113 - root - INFO - Entering CAS number
+2024-06-28 12:36:36,223 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 12:36:36,238 - root - INFO - Entering CAS2 number
+2024-06-28 12:36:36,345 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 12:36:36,345 - root - INFO - Clicking the legal status dropdown
+2024-06-28 12:36:36,495 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 12:36:36,596 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 12:36:36,692 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 12:36:36,740 - root - INFO - Clicking the create button
+2024-06-28 12:36:48,376 - root - ERROR - An error occurred while creating raw material: Message: 
+2024-06-28 12:36:48,383 - root - ERROR - Raw Material creation unsuccessful
+2024-06-28 12:36:56,791 - root - INFO - Logout - Passed
+2024-06-28 12:36:56,791 - root - INFO - Logout successful for Raw Material Test 01
+
+Test Case 8: Search Page
+Test Case 8.1: Searching for the auto-generated RM code - PASSED
+2024-06-28 12:38:52,813 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:38:52,840 - root - INFO - Clicking the rm button
+2024-06-28 12:38:52,898 - root - INFO - Clicking the search rm button
+2024-06-28 12:38:54,265 - root - INFO - Clicked the search rm button successfully
+2024-06-28 12:38:54,270 - root - INFO - Entering element to be searched
+2024-06-28 12:38:54,329 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 12:38:54,329 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 12:38:54,354 - root - INFO - Clicking the search button
+2024-06-28 12:38:54,367 - root - INFO - Search Raw material - Passed
+
+Test Case 8.2: Delete the searched code - PASSED
+2024-06-28 12:39:09,368 - root - INFO - Waiting for the delete button to be clickable
+2024-06-28 12:39:09,413 - root - INFO - Clicking the delete button
+2024-06-28 12:39:09,422 - root - INFO - Waiting to click the YES confirm delete button
+2024-06-28 12:39:09,811 - root - INFO - Clicked the yes button
+2024-06-28 12:39:09,811 - root - INFO - Delete Raw material - Passed
+
+Test Case 8.3: Search for the deleted RM - PASSED
+2024-06-28 12:39:24,813 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:39:24,857 - root - INFO - Clicking the rm button
+2024-06-28 12:39:24,916 - root - INFO - Clicking the search rm button
+2024-06-28 12:39:26,415 - root - INFO - Clicked the search rm button successfully
+2024-06-28 12:39:26,421 - root - INFO - Entering element to be searched
+2024-06-28 12:39:26,477 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 12:39:26,477 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 12:39:26,500 - root - INFO - Clicking the search button
+2024-06-28 12:39:26,515 - root - INFO - Search Raw material - Passed
+2024-06-28 12:39:44,925 - root - INFO - Logout - Passed
+2024-06-28 12:39:44,925 - root - INFO - Logout successful for Raw Material Test 02
+
+Test Case 8.4: Empty search to extract auto-generted code
+2024-06-28 12:39:53,097 - root - INFO - Login - Passed
+2024-06-28 12:39:53,099 - root - INFO - Login successful for Raw Material Test 03
+2024-06-28 12:39:53,099 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 12:39:53,136 - root - INFO - Clicking the rm button
+2024-06-28 12:39:53,191 - root - INFO - Clicking the search rm button
+2024-06-28 12:39:54,758 - root - INFO - Clicked the search rm button successfully
+2024-06-28 12:39:54,769 - root - INFO - Click field
+2024-06-28 12:39:54,830 - root - INFO - Clicking the search button
+2024-06-28 12:39:54,839 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 12:39:56,012 - root - INFO - Auto-generated product code: E7485
+2024-06-28 12:39:56,012 - root - INFO - Empty search- Passed 
+
+Test Case 9: Costs Page
+Test Case 9.1: Create Costs
+2024-06-28 12:39:56,031 - root - INFO - Clicking the RM label
+2024-06-28 12:39:56,088 - root - INFO - Clicking the costs label
+2024-06-28 12:39:56,738 - root - INFO - Clicked the costs button successfully
+2024-06-28 12:39:56,738 - root - INFO - 0 elements found in costs
+2024-06-28 12:39:56,738 - root - INFO - Creating new Costs
+2024-06-28 12:39:56,771 - root - INFO - Clicking the create new costs button
+2024-06-28 12:39:56,816 - root - INFO - Created new cost successfully
+2024-06-28 12:39:57,237 - root - INFO - Searching for the RM in costs
+2024-06-28 12:39:58,355 - root - INFO - Auto-completed the required element successfully
+2024-06-28 12:39:58,421 - root - INFO - Custon code entered successfully
+2024-06-28 12:39:58,421 - root - INFO - Waiting for the create costs button to be clickable 
+2024-06-28 12:39:58,452 - root - INFO - Clicking the create button
+2024-06-28 12:39:58,466 - root - INFO - Successfully created costs
+2024-06-28 12:39:58,466 - root - INFO - Create costs - Passed
+
+Test Case 9.2: Search Costs
+2024-06-28 12:40:13,484 - root - INFO - Enter cost to be searched
+2024-06-28 12:40:13,577 - root - INFO - Clicking the search costs button
+2024-06-28 12:40:13,588 - root - INFO - Searched cost successfully
+2024-06-28 12:40:13,588 - root - INFO - Search cost - Passed
+
+Test Case 10: Organoleptics Page
+Test Case 10.1: Search a raw material containing organoleptics
+2024-06-28 12:40:28,622 - root - INFO - Clicking the RM label
+2024-06-28 12:40:28,673 - root - INFO - Clicking the organoleptics element
+2024-06-28 12:40:29,510 - root - INFO - 48 elements found in organoleptics
+2024-06-28 12:40:29,525 - root - INFO - Entering the RM code
+2024-06-28 12:40:29,587 - root - INFO - RM code of the rm is entered in the field
+2024-06-28 12:40:29,600 - root - INFO - Entering the RM name
+2024-06-28 12:40:29,639 - root - INFO - RM name of the rm is entered in the field
+2024-06-28 12:40:29,672 - root - INFO - Clicking the search button
+2024-06-28 12:40:29,689 - root - INFO - Searched the organoleptics element successfully
+2024-06-28 12:40:29,689 - root - INFO - Search organoleptics - Passed
+2024-06-28 12:40:48,124 - root - INFO - Logout - Passed
+2024-06-28 12:40:48,125 - root - INFO - Logout successful for Raw Material Test 03
+2024-06-28 16:28:12,805 - root - INFO - Login - Passed
+2024-06-28 16:28:12,805 - root - INFO - Login successful for Raw Material Test 01
+2024-06-28 16:28:14,859 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:28:14,911 - root - INFO - Clicking the rm button
+2024-06-28 16:28:14,993 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 16:28:15,033 - root - INFO - Clicking the new RM button
+2024-06-28 16:28:16,154 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 16:28:16,194 - root - INFO - Entering the RM name
+2024-06-28 16:28:16,516 - root - INFO - Name of the rm is entered in name field
+2024-06-28 16:28:16,517 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 16:28:16,573 - root - INFO - Selecting the type label
+2024-06-28 16:28:16,741 - root - INFO - Entering the selected type
+2024-06-28 16:28:16,841 - root - INFO - Entering the SAP code
+2024-06-28 16:28:16,983 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 16:28:17,010 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 16:28:17,140 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 16:28:17,160 - root - INFO - Entering the printed name
+2024-06-28 16:28:17,366 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 16:28:17,411 - root - INFO - Entering Ingridient description
+2024-06-28 16:28:17,614 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 16:28:17,643 - root - INFO - Entering EC number
+2024-06-28 16:28:17,810 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 16:28:17,844 - root - INFO - Entering CAS number
+2024-06-28 16:28:18,035 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 16:28:18,063 - root - INFO - Entering CAS2 number
+2024-06-28 16:28:18,233 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 16:28:18,234 - root - INFO - Clicking the legal status dropdown
+2024-06-28 16:28:18,413 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 16:28:18,599 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 16:28:18,719 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 16:28:18,777 - root - INFO - Clicking the create button
+2024-06-28 16:28:23,309 - root - INFO - Raw Material creation was successful
+2024-06-28 16:28:23,310 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:28:23,343 - root - INFO - Clicking the rm button
+2024-06-28 16:28:23,553 - root - INFO - Clicking the search rm button
+2024-06-28 16:28:28,687 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:28:28,711 - root - INFO - Click field
+2024-06-28 16:28:28,828 - root - INFO - Clicking the search button
+2024-06-28 16:28:28,846 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 16:28:29,980 - root - INFO - Raw Material code: AC11078
+2024-06-28 16:28:29,981 - root - INFO - Raw Material creation successful
+2024-06-28 16:28:31,697 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:28:31,733 - root - INFO - Clicking the rm button
+2024-06-28 16:28:31,792 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 16:28:31,824 - root - INFO - Clicking the new RM button
+2024-06-28 16:28:32,841 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 16:28:32,869 - root - INFO - Entering the RM name
+2024-06-28 16:28:33,030 - root - INFO - Name of the rm is entered in name field
+2024-06-28 16:28:33,030 - root - INFO - Turning off auto-generate code
+2024-06-28 16:28:33,122 - root - INFO - Auto-generate code turned off
+2024-06-28 16:28:33,140 - root - INFO - Entering code manually
+2024-06-28 16:28:33,258 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 16:28:33,297 - root - INFO - Selecting the type label
+2024-06-28 16:28:33,419 - root - INFO - Entering the selected type
+2024-06-28 16:28:33,463 - root - INFO - Entering the SAP code
+2024-06-28 16:28:33,571 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 16:28:33,580 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 16:28:33,676 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 16:28:33,686 - root - INFO - Entering the printed name
+2024-06-28 16:28:33,776 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 16:28:33,785 - root - INFO - Entering Ingridient description
+2024-06-28 16:28:33,924 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 16:28:33,935 - root - INFO - Entering EC number
+2024-06-28 16:28:34,107 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 16:28:34,127 - root - INFO - Entering CAS number
+2024-06-28 16:28:34,262 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 16:28:34,274 - root - INFO - Entering CAS2 number
+2024-06-28 16:28:34,367 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 16:28:34,367 - root - INFO - Clicking the legal status dropdown
+2024-06-28 16:28:34,457 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 16:28:34,550 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 16:28:34,637 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 16:28:34,674 - root - INFO - Clicking the create button
+2024-06-28 16:28:46,235 - root - ERROR - An error occurred while creating raw material: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C564EEA2+31554]
+	(No symbol) [0x00007FF6C55C7ED9]
+	(No symbol) [0x00007FF6C548872A]
+	(No symbol) [0x00007FF6C54D8434]
+	(No symbol) [0x00007FF6C54D853C]
+	(No symbol) [0x00007FF6C551F6A7]
+	(No symbol) [0x00007FF6C54FD06F]
+	(No symbol) [0x00007FF6C551C977]
+	(No symbol) [0x00007FF6C54FCDD3]
+	(No symbol) [0x00007FF6C54CA33B]
+	(No symbol) [0x00007FF6C54CAED1]
+	GetHandleVerifier [0x00007FF6C5958B1D+3217341]
+	GetHandleVerifier [0x00007FF6C59A5AE3+3532675]
+	GetHandleVerifier [0x00007FF6C599B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C56FE776+750614]
+	(No symbol) [0x00007FF6C55D375F]
+	(No symbol) [0x00007FF6C55CEB14]
+	(No symbol) [0x00007FF6C55CECA2]
+	(No symbol) [0x00007FF6C55BE16F]
+	BaseThreadInitThunk [0x00007FF9A497257D+29]
+	RtlUserThreadStart [0x00007FF9A564AF28+40]
+
+2024-06-28 16:28:46,238 - root - ERROR - Raw Material creation unsuccessful
+2024-06-28 16:28:54,751 - root - INFO - Logout - Passed
+2024-06-28 16:28:54,752 - root - INFO - Logout successful for Raw Material Test 01
+2024-06-28 16:29:02,545 - root - INFO - Login - Passed
+2024-06-28 16:29:02,545 - root - INFO - Login successful for Raw Material Test 02
+2024-06-28 16:29:04,345 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:29:04,384 - root - INFO - Clicking the rm button
+2024-06-28 16:29:04,442 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 16:29:04,479 - root - INFO - Clicking the new RM button
+2024-06-28 16:29:06,019 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 16:29:06,036 - root - INFO - Entering the RM name
+2024-06-28 16:29:06,224 - root - INFO - Name of the rm is entered in name field
+2024-06-28 16:29:06,224 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 16:29:06,259 - root - INFO - Selecting the type label
+2024-06-28 16:29:06,363 - root - INFO - Entering the selected type
+2024-06-28 16:29:06,409 - root - INFO - Entering the SAP code
+2024-06-28 16:29:06,520 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 16:29:06,530 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 16:29:06,626 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 16:29:06,635 - root - INFO - Entering the printed name
+2024-06-28 16:29:06,734 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 16:29:06,746 - root - INFO - Entering Ingridient description
+2024-06-28 16:29:06,877 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 16:29:06,889 - root - INFO - Entering EC number
+2024-06-28 16:29:07,029 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 16:29:07,045 - root - INFO - Entering CAS number
+2024-06-28 16:29:07,172 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 16:29:07,183 - root - INFO - Entering CAS2 number
+2024-06-28 16:29:07,281 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 16:29:07,282 - root - INFO - Clicking the legal status dropdown
+2024-06-28 16:29:07,388 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 16:29:07,486 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 16:29:07,573 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 16:29:07,610 - root - INFO - Clicking the create button
+2024-06-28 16:29:12,054 - root - INFO - Raw Material creation was successful
+2024-06-28 16:29:12,055 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:29:12,102 - root - INFO - Clicking the rm button
+2024-06-28 16:29:12,184 - root - INFO - Clicking the search rm button
+2024-06-28 16:29:16,605 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:29:16,616 - root - INFO - Click field
+2024-06-28 16:29:16,724 - root - INFO - Clicking the search button
+2024-06-28 16:29:16,739 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 16:29:18,033 - root - INFO - Raw Material code: AC11079
+2024-06-28 16:29:18,033 - root - INFO - Raw Material creation successful
+2024-06-28 16:29:18,034 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:29:18,068 - root - INFO - Clicking the rm button
+2024-06-28 16:29:18,162 - root - INFO - Clicking the search rm button
+2024-06-28 16:29:19,703 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:29:19,719 - root - INFO - Entering element to be searched
+2024-06-28 16:29:19,812 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 16:29:19,812 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 16:29:19,848 - root - INFO - Clicking the search button
+2024-06-28 16:29:19,867 - root - INFO - Search Raw material - Passed
+2024-06-28 16:29:34,868 - root - INFO - Waiting for the delete button to be clickable
+2024-06-28 16:29:34,922 - root - INFO - Clicking the delete button
+2024-06-28 16:29:34,947 - root - INFO - Waiting to click the YES confirm delete button
+2024-06-28 16:29:35,345 - root - INFO - Clicked the yes button
+2024-06-28 16:29:35,345 - root - INFO - Delete Raw material - Passed
+2024-06-28 16:29:50,346 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:29:50,391 - root - INFO - Clicking the rm button
+2024-06-28 16:29:50,484 - root - INFO - Clicking the search rm button
+2024-06-28 16:29:52,000 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:29:52,013 - root - INFO - Entering element to be searched
+2024-06-28 16:29:52,056 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 16:29:52,056 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 16:29:52,083 - root - INFO - Clicking the search button
+2024-06-28 16:29:52,100 - root - INFO - Search Raw material - Passed
+2024-06-28 16:30:10,506 - root - INFO - Logout - Passed
+2024-06-28 16:30:10,506 - root - INFO - Logout successful for Raw Material Test 02
+2024-06-28 16:30:18,451 - root - INFO - Login - Passed
+2024-06-28 16:30:18,452 - root - INFO - Login successful for Raw Material Test 03
+2024-06-28 16:30:18,453 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:30:18,497 - root - INFO - Clicking the rm button
+2024-06-28 16:30:18,578 - root - INFO - Clicking the search rm button
+2024-06-28 16:30:20,318 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:30:20,328 - root - INFO - Click field
+2024-06-28 16:30:20,386 - root - INFO - Clicking the search button
+2024-06-28 16:30:20,398 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 16:30:21,548 - root - INFO - Auto-generated product code: AC11078
+2024-06-28 16:30:21,549 - root - INFO - Empty search- Passed 
+2024-06-28 16:30:21,582 - root - INFO - Clicking the RM label
+2024-06-28 16:30:21,676 - root - INFO - Clicking the costs label
+2024-06-28 16:30:22,289 - root - INFO - Clicked the costs button successfully
+2024-06-28 16:30:22,289 - root - INFO - 0 elements found in costs
+2024-06-28 16:30:22,289 - root - INFO - Creating new Costs
+2024-06-28 16:30:22,333 - root - INFO - Clicking the create new costs button
+2024-06-28 16:30:22,380 - root - INFO - Created new cost successfully
+2024-06-28 16:30:22,823 - root - INFO - Searching for the RM in costs
+2024-06-28 16:30:23,955 - root - INFO - Auto-completed the required element successfully
+2024-06-28 16:30:24,018 - root - INFO - Custon code entered successfully
+2024-06-28 16:30:24,018 - root - INFO - Waiting for the create costs button to be clickable 
+2024-06-28 16:30:24,054 - root - INFO - Clicking the create button
+2024-06-28 16:30:24,069 - root - INFO - Successfully created costs
+2024-06-28 16:30:24,069 - root - INFO - Create costs - Passed
+2024-06-28 16:30:39,100 - root - INFO - Enter cost to be searched
+2024-06-28 16:30:39,197 - root - INFO - Clicking the search costs button
+2024-06-28 16:30:39,205 - root - INFO - Searched cost successfully
+2024-06-28 16:30:39,205 - root - INFO - Search cost - Passed
+2024-06-28 16:30:54,242 - root - INFO - Clicking the RM label
+2024-06-28 16:30:54,330 - root - INFO - Clicking the organoleptics element
+2024-06-28 16:30:55,073 - root - INFO - 48 elements found in organoleptics
+2024-06-28 16:30:55,099 - root - INFO - Entering the RM code
+2024-06-28 16:30:55,171 - root - INFO - RM code of the rm is entered in the field
+2024-06-28 16:30:55,182 - root - INFO - Entering the RM name
+2024-06-28 16:30:55,218 - root - INFO - RM name of the rm is entered in the field
+2024-06-28 16:30:55,255 - root - INFO - Clicking the search button
+2024-06-28 16:30:55,276 - root - INFO - Searched the organoleptics element successfully
+2024-06-28 16:30:55,277 - root - INFO - Search organoleptics - Passed
+2024-06-28 16:31:13,855 - root - INFO - Logout - Passed
+2024-06-28 16:31:13,856 - root - INFO - Logout successful for Raw Material Test 03
+2024-06-28 16:32:32,331 - root - INFO - Login - Passed
+2024-06-28 16:32:32,331 - root - INFO - Login successful for Raw Material Test 01
+2024-06-28 16:32:34,437 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:32:34,462 - root - INFO - Clicking the rm button
+2024-06-28 16:32:34,507 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 16:32:34,535 - root - INFO - Clicking the new RM button
+2024-06-28 16:32:35,633 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 16:32:35,647 - root - INFO - Entering the RM name
+2024-06-28 16:32:35,759 - root - INFO - Name of the rm is entered in name field
+2024-06-28 16:32:35,760 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 16:32:35,797 - root - INFO - Selecting the type label
+2024-06-28 16:32:35,883 - root - INFO - Entering the selected type
+2024-06-28 16:32:35,928 - root - INFO - Entering the SAP code
+2024-06-28 16:32:36,008 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 16:32:36,017 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 16:32:36,082 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 16:32:36,094 - root - INFO - Entering the printed name
+2024-06-28 16:32:36,164 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 16:32:36,175 - root - INFO - Entering Ingridient description
+2024-06-28 16:32:36,264 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 16:32:36,278 - root - INFO - Entering EC number
+2024-06-28 16:32:36,375 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 16:32:36,395 - root - INFO - Entering CAS number
+2024-06-28 16:32:36,493 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 16:32:36,509 - root - INFO - Entering CAS2 number
+2024-06-28 16:32:36,601 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 16:32:36,606 - root - INFO - Clicking the legal status dropdown
+2024-06-28 16:32:36,721 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 16:32:36,798 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 16:32:36,878 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 16:32:36,908 - root - INFO - Clicking the create button
+2024-06-28 16:32:41,375 - root - INFO - Raw Material creation was successful
+2024-06-28 16:32:41,376 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:32:41,406 - root - INFO - Clicking the rm button
+2024-06-28 16:32:41,461 - root - INFO - Clicking the search rm button
+2024-06-28 16:32:45,962 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:32:45,976 - root - INFO - Click field
+2024-06-28 16:32:46,061 - root - INFO - Clicking the search button
+2024-06-28 16:32:46,072 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 16:32:47,624 - root - INFO - Raw Material code: AC11080
+2024-06-28 16:32:47,624 - root - INFO - Raw Material creation successful
+2024-06-28 16:32:49,379 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:32:49,401 - root - INFO - Clicking the rm button
+2024-06-28 16:32:49,433 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 16:32:49,457 - root - INFO - Clicking the new RM button
+2024-06-28 16:32:50,593 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 16:32:50,610 - root - INFO - Entering the RM name
+2024-06-28 16:32:50,713 - root - INFO - Name of the rm is entered in name field
+2024-06-28 16:32:50,713 - root - INFO - Turning off auto-generate code
+2024-06-28 16:32:50,763 - root - INFO - Auto-generate code turned off
+2024-06-28 16:32:50,775 - root - INFO - Entering code manually
+2024-06-28 16:32:50,847 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 16:32:50,867 - root - INFO - Selecting the type label
+2024-06-28 16:32:50,938 - root - INFO - Entering the selected type
+2024-06-28 16:32:50,964 - root - INFO - Entering the SAP code
+2024-06-28 16:32:51,031 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 16:32:51,041 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 16:32:51,097 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 16:32:51,102 - root - INFO - Entering the printed name
+2024-06-28 16:32:51,159 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 16:32:51,166 - root - INFO - Entering Ingridient description
+2024-06-28 16:32:51,233 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 16:32:51,240 - root - INFO - Entering EC number
+2024-06-28 16:32:51,311 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 16:32:51,316 - root - INFO - Entering CAS number
+2024-06-28 16:32:51,391 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 16:32:51,401 - root - INFO - Entering CAS2 number
+2024-06-28 16:32:51,458 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 16:32:51,459 - root - INFO - Clicking the legal status dropdown
+2024-06-28 16:32:51,510 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 16:32:51,568 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 16:32:51,629 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 16:32:51,651 - root - INFO - Clicking the create button
+2024-06-28 16:33:03,332 - root - ERROR - An error occurred while creating raw material: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C564EEA2+31554]
+	(No symbol) [0x00007FF6C55C7ED9]
+	(No symbol) [0x00007FF6C548872A]
+	(No symbol) [0x00007FF6C54D8434]
+	(No symbol) [0x00007FF6C54D853C]
+	(No symbol) [0x00007FF6C551F6A7]
+	(No symbol) [0x00007FF6C54FD06F]
+	(No symbol) [0x00007FF6C551C977]
+	(No symbol) [0x00007FF6C54FCDD3]
+	(No symbol) [0x00007FF6C54CA33B]
+	(No symbol) [0x00007FF6C54CAED1]
+	GetHandleVerifier [0x00007FF6C5958B1D+3217341]
+	GetHandleVerifier [0x00007FF6C59A5AE3+3532675]
+	GetHandleVerifier [0x00007FF6C599B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C56FE776+750614]
+	(No symbol) [0x00007FF6C55D375F]
+	(No symbol) [0x00007FF6C55CEB14]
+	(No symbol) [0x00007FF6C55CECA2]
+	(No symbol) [0x00007FF6C55BE16F]
+	BaseThreadInitThunk [0x00007FF9A497257D+29]
+	RtlUserThreadStart [0x00007FF9A564AF28+40]
+
+2024-06-28 16:33:03,337 - root - ERROR - Raw Material creation unsuccessful
+2024-06-28 16:33:11,636 - root - INFO - Logout - Passed
+2024-06-28 16:33:11,636 - root - INFO - Logout successful for Raw Material Test 01
+2024-06-28 16:33:19,131 - root - INFO - Login - Passed
+2024-06-28 16:33:19,133 - root - INFO - Login successful for Raw Material Test 02
+2024-06-28 16:33:20,885 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:33:20,905 - root - INFO - Clicking the rm button
+2024-06-28 16:33:20,936 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 16:33:20,961 - root - INFO - Clicking the new RM button
+2024-06-28 16:33:22,127 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 16:33:22,146 - root - INFO - Entering the RM name
+2024-06-28 16:33:22,236 - root - INFO - Name of the rm is entered in name field
+2024-06-28 16:33:22,236 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 16:33:22,254 - root - INFO - Selecting the type label
+2024-06-28 16:33:22,318 - root - INFO - Entering the selected type
+2024-06-28 16:33:22,346 - root - INFO - Entering the SAP code
+2024-06-28 16:33:22,401 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 16:33:22,409 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 16:33:22,453 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 16:33:22,463 - root - INFO - Entering the printed name
+2024-06-28 16:33:22,503 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 16:33:22,511 - root - INFO - Entering Ingridient description
+2024-06-28 16:33:22,568 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 16:33:22,578 - root - INFO - Entering EC number
+2024-06-28 16:33:22,633 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 16:33:22,641 - root - INFO - Entering CAS number
+2024-06-28 16:33:22,697 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 16:33:22,702 - root - INFO - Entering CAS2 number
+2024-06-28 16:33:22,747 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 16:33:22,748 - root - INFO - Clicking the legal status dropdown
+2024-06-28 16:33:22,810 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 16:33:22,880 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 16:33:22,935 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 16:33:22,962 - root - INFO - Clicking the create button
+2024-06-28 16:33:26,963 - root - INFO - Raw Material creation was successful
+2024-06-28 16:33:26,963 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:33:26,986 - root - INFO - Clicking the rm button
+2024-06-28 16:33:27,035 - root - INFO - Clicking the search rm button
+2024-06-28 16:33:32,282 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:33:32,294 - root - INFO - Click field
+2024-06-28 16:33:32,370 - root - INFO - Clicking the search button
+2024-06-28 16:33:32,381 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 16:33:33,814 - root - INFO - Raw Material code: AC11081
+2024-06-28 16:33:33,814 - root - INFO - Raw Material creation successful
+2024-06-28 16:33:33,814 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:33:33,830 - root - INFO - Clicking the rm button
+2024-06-28 16:33:33,884 - root - INFO - Clicking the search rm button
+2024-06-28 16:33:35,287 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:33:35,304 - root - INFO - Entering element to be searched
+2024-06-28 16:33:35,353 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 16:33:35,354 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 16:33:35,385 - root - INFO - Clicking the search button
+2024-06-28 16:33:35,399 - root - INFO - Search Raw material - Passed
+2024-06-28 16:33:50,400 - root - INFO - Waiting for the delete button to be clickable
+2024-06-28 16:33:50,463 - root - INFO - Clicking the delete button
+2024-06-28 16:33:50,479 - root - INFO - Waiting to click the YES confirm delete button
+2024-06-28 16:33:50,900 - root - INFO - Clicked the yes button
+2024-06-28 16:33:50,900 - root - INFO - Delete Raw material - Passed
+2024-06-28 16:34:05,901 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:34:05,953 - root - INFO - Clicking the rm button
+2024-06-28 16:34:06,017 - root - INFO - Clicking the search rm button
+2024-06-28 16:34:07,500 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:34:07,516 - root - INFO - Entering element to be searched
+2024-06-28 16:34:07,577 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 16:34:07,577 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 16:34:07,600 - root - INFO - Clicking the search button
+2024-06-28 16:34:07,612 - root - INFO - Search Raw material - Passed
+2024-06-28 16:34:26,056 - root - INFO - Logout - Passed
+2024-06-28 16:34:26,056 - root - INFO - Logout successful for Raw Material Test 02
+2024-06-28 16:34:33,685 - root - INFO - Login - Passed
+2024-06-28 16:34:33,686 - root - INFO - Login successful for Raw Material Test 03
+2024-06-28 16:34:33,687 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 16:34:33,741 - root - INFO - Clicking the rm button
+2024-06-28 16:34:33,838 - root - INFO - Clicking the search rm button
+2024-06-28 16:34:35,421 - root - INFO - Clicked the search rm button successfully
+2024-06-28 16:34:35,441 - root - INFO - Click field
+2024-06-28 16:34:35,549 - root - INFO - Clicking the search button
+2024-06-28 16:34:35,566 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 16:34:36,663 - root - INFO - Auto-generated product code: AC11080
+2024-06-28 16:34:36,664 - root - INFO - Empty search- Passed 
+2024-06-28 16:34:36,680 - root - INFO - Clicking the RM label
+2024-06-28 16:34:36,737 - root - INFO - Clicking the costs label
+2024-06-28 16:34:37,180 - root - INFO - Clicked the costs button successfully
+2024-06-28 16:34:37,181 - root - INFO - 0 elements found in costs
+2024-06-28 16:34:37,181 - root - INFO - Creating new Costs
+2024-06-28 16:34:37,218 - root - INFO - Clicking the create new costs button
+2024-06-28 16:34:37,265 - root - INFO - Created new cost successfully
+2024-06-28 16:34:37,696 - root - INFO - Searching for the RM in costs
+2024-06-28 16:34:38,847 - root - INFO - Auto-completed the required element successfully
+2024-06-28 16:34:38,907 - root - INFO - Custon code entered successfully
+2024-06-28 16:34:38,907 - root - INFO - Waiting for the create costs button to be clickable 
+2024-06-28 16:34:38,948 - root - INFO - Clicking the create button
+2024-06-28 16:34:38,959 - root - INFO - Successfully created costs
+2024-06-28 16:34:38,960 - root - INFO - Create costs - Passed
+2024-06-28 16:34:54,000 - root - INFO - Enter cost to be searched
+2024-06-28 16:34:54,108 - root - INFO - Clicking the search costs button
+2024-06-28 16:34:54,123 - root - INFO - Searched cost successfully
+2024-06-28 16:34:54,123 - root - INFO - Search cost - Passed
+2024-06-28 16:35:09,176 - root - INFO - Clicking the RM label
+2024-06-28 16:35:09,268 - root - INFO - Clicking the organoleptics element
+2024-06-28 16:35:10,144 - root - INFO - 48 elements found in organoleptics
+2024-06-28 16:35:10,162 - root - INFO - Entering the RM code
+2024-06-28 16:35:10,224 - root - INFO - RM code of the rm is entered in the field
+2024-06-28 16:35:10,237 - root - INFO - Entering the RM name
+2024-06-28 16:35:10,281 - root - INFO - RM name of the rm is entered in the field
+2024-06-28 16:35:10,318 - root - INFO - Clicking the search button
+2024-06-28 16:35:10,342 - root - INFO - Searched the organoleptics element successfully
+2024-06-28 16:35:10,343 - root - INFO - Search organoleptics - Passed
+2024-06-28 16:35:28,855 - root - INFO - Logout - Passed
+2024-06-28 16:35:28,856 - root - INFO - Logout successful for Raw Material Test 03
+2024-06-28 17:18:36,760 - root - INFO - Login - Passed
+2024-06-28 17:18:36,761 - root - INFO - Login successful for Raw Material Test 01
+2024-06-28 17:18:40,550 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:18:40,598 - root - INFO - Clicking the rm button
+2024-06-28 17:18:40,677 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 17:18:40,725 - root - INFO - Clicking the new RM button
+2024-06-28 17:18:42,679 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 17:18:42,696 - root - INFO - Entering the RM name
+2024-06-28 17:18:42,861 - root - INFO - Name of the rm is entered in name field
+2024-06-28 17:18:42,861 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 17:18:42,894 - root - INFO - Selecting the type label
+2024-06-28 17:18:42,991 - root - INFO - Entering the selected type
+2024-06-28 17:18:43,062 - root - INFO - Entering the SAP code
+2024-06-28 17:18:43,138 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 17:18:43,156 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 17:18:43,270 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 17:18:43,284 - root - INFO - Entering the printed name
+2024-06-28 17:18:43,361 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 17:18:43,376 - root - INFO - Entering Ingridient description
+2024-06-28 17:18:43,465 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 17:18:43,478 - root - INFO - Entering EC number
+2024-06-28 17:18:43,566 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 17:18:43,586 - root - INFO - Entering CAS number
+2024-06-28 17:18:43,674 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 17:18:43,688 - root - INFO - Entering CAS2 number
+2024-06-28 17:18:43,759 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 17:18:43,760 - root - INFO - Clicking the legal status dropdown
+2024-06-28 17:18:43,857 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 17:18:43,943 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 17:18:44,038 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 17:18:44,108 - root - INFO - Clicking the create button
+2024-06-28 17:18:49,531 - root - INFO - Raw Material creation was successful
+2024-06-28 17:18:49,532 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:18:49,569 - root - INFO - Clicking the rm button
+2024-06-28 17:18:49,660 - root - INFO - Clicking the search rm button
+2024-06-28 17:18:54,961 - root - INFO - Clicked the search rm button successfully
+2024-06-28 17:18:54,987 - root - INFO - Click field
+2024-06-28 17:18:55,133 - root - INFO - Clicking the search button
+2024-06-28 17:18:55,176 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 17:18:56,511 - root - INFO - Raw Material code: AC11091
+2024-06-28 17:18:56,511 - root - INFO - Raw Material creation successful
+2024-06-28 17:18:58,868 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:18:58,905 - root - INFO - Clicking the rm button
+2024-06-28 17:18:58,963 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 17:18:59,008 - root - INFO - Clicking the new RM button
+2024-06-28 17:19:00,468 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 17:19:00,485 - root - INFO - Entering the RM name
+2024-06-28 17:19:00,659 - root - INFO - Name of the rm is entered in name field
+2024-06-28 17:19:00,659 - root - INFO - Turning off auto-generate code
+2024-06-28 17:19:00,744 - root - INFO - Auto-generate code turned off
+2024-06-28 17:19:00,761 - root - INFO - Entering code manually
+2024-06-28 17:19:00,873 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 17:19:00,906 - root - INFO - Selecting the type label
+2024-06-28 17:19:01,019 - root - INFO - Entering the selected type
+2024-06-28 17:19:01,065 - root - INFO - Entering the SAP code
+2024-06-28 17:19:01,213 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 17:19:01,224 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 17:19:01,328 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 17:19:01,341 - root - INFO - Entering the printed name
+2024-06-28 17:19:01,443 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 17:19:01,455 - root - INFO - Entering Ingridient description
+2024-06-28 17:19:01,599 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 17:19:01,607 - root - INFO - Entering EC number
+2024-06-28 17:19:01,693 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 17:19:01,702 - root - INFO - Entering CAS number
+2024-06-28 17:19:01,776 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 17:19:01,789 - root - INFO - Entering CAS2 number
+2024-06-28 17:19:01,940 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 17:19:01,941 - root - INFO - Clicking the legal status dropdown
+2024-06-28 17:19:02,078 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 17:19:02,198 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 17:19:02,335 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 17:19:02,386 - root - INFO - Clicking the create button
+2024-06-28 17:19:14,282 - root - ERROR - An error occurred while creating raw material: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C564EEA2+31554]
+	(No symbol) [0x00007FF6C55C7ED9]
+	(No symbol) [0x00007FF6C548872A]
+	(No symbol) [0x00007FF6C54D8434]
+	(No symbol) [0x00007FF6C54D853C]
+	(No symbol) [0x00007FF6C551F6A7]
+	(No symbol) [0x00007FF6C54FD06F]
+	(No symbol) [0x00007FF6C551C977]
+	(No symbol) [0x00007FF6C54FCDD3]
+	(No symbol) [0x00007FF6C54CA33B]
+	(No symbol) [0x00007FF6C54CAED1]
+	GetHandleVerifier [0x00007FF6C5958B1D+3217341]
+	GetHandleVerifier [0x00007FF6C59A5AE3+3532675]
+	GetHandleVerifier [0x00007FF6C599B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C56FE776+750614]
+	(No symbol) [0x00007FF6C55D375F]
+	(No symbol) [0x00007FF6C55CEB14]
+	(No symbol) [0x00007FF6C55CECA2]
+	(No symbol) [0x00007FF6C55BE16F]
+	BaseThreadInitThunk [0x00007FF9A497257D+29]
+	RtlUserThreadStart [0x00007FF9A564AF28+40]
+
+2024-06-28 17:19:14,293 - root - ERROR - Raw Material creation unsuccessful
+2024-06-28 17:19:23,044 - root - INFO - Logout - Passed
+2024-06-28 17:19:23,045 - root - INFO - Logout successful for Raw Material Test 01
+2024-06-28 17:19:33,961 - root - INFO - Login - Passed
+2024-06-28 17:19:33,962 - root - INFO - Login successful for Raw Material Test 02
+2024-06-28 17:19:37,915 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:19:37,954 - root - INFO - Clicking the rm button
+2024-06-28 17:19:38,012 - root - INFO - Waiting for the new rm button to be clickable
+2024-06-28 17:19:38,057 - root - INFO - Clicking the new RM button
+2024-06-28 17:19:39,147 - root - INFO - Waiting for the rm name field to be present
+2024-06-28 17:19:39,179 - root - INFO - Entering the RM name
+2024-06-28 17:19:39,368 - root - INFO - Name of the rm is entered in name field
+2024-06-28 17:19:39,369 - root - INFO - Waiting for the type label to be clickable
+2024-06-28 17:19:39,408 - root - INFO - Selecting the type label
+2024-06-28 17:19:39,526 - root - INFO - Entering the selected type
+2024-06-28 17:19:39,576 - root - INFO - Entering the SAP code
+2024-06-28 17:19:39,692 - root - INFO - SAP code of the rm is entered in the field
+2024-06-28 17:19:39,700 - root - INFO - Entering the chemical IUPAC name
+2024-06-28 17:19:39,768 - root - INFO - Chemical IUPAC name of the rm is entered in the field
+2024-06-28 17:19:39,777 - root - INFO - Entering the printed name
+2024-06-28 17:19:39,844 - root - INFO - Printed name of the rm is entered in the field
+2024-06-28 17:19:39,854 - root - INFO - Entering Ingridient description
+2024-06-28 17:19:40,084 - root - INFO - Ingredient description of the rm is entered in the field
+2024-06-28 17:19:40,093 - root - INFO - Entering EC number
+2024-06-28 17:19:40,170 - root - INFO - EC number of the rm is entered in the field
+2024-06-28 17:19:40,175 - root - INFO - Entering CAS number
+2024-06-28 17:19:40,251 - root - INFO - CAS number of the rm is entered in the field
+2024-06-28 17:19:40,259 - root - INFO - Entering CAS2 number
+2024-06-28 17:19:40,323 - root - INFO - CAS2 number of the rm is entered in the field
+2024-06-28 17:19:40,323 - root - INFO - Clicking the legal status dropdown
+2024-06-28 17:19:40,423 - root - INFO - Clicking the FDA status dropdown
+2024-06-28 17:19:40,542 - root - INFO - Clicking the EU legal status dropdown
+2024-06-28 17:19:40,687 - root - INFO - Waiting for the create button to be clickable
+2024-06-28 17:19:40,742 - root - INFO - Clicking the create button
+2024-06-28 17:19:45,337 - root - INFO - Raw Material creation was successful
+2024-06-28 17:19:45,337 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:19:45,358 - root - INFO - Clicking the rm button
+2024-06-28 17:19:45,431 - root - INFO - Clicking the search rm button
+2024-06-28 17:19:50,531 - root - INFO - Clicked the search rm button successfully
+2024-06-28 17:19:50,545 - root - INFO - Click field
+2024-06-28 17:19:50,670 - root - INFO - Clicking the search button
+2024-06-28 17:19:50,701 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 17:19:52,131 - root - INFO - Raw Material code: AC11093
+2024-06-28 17:19:52,132 - root - INFO - Raw Material creation successful
+2024-06-28 17:19:52,133 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:19:52,167 - root - INFO - Clicking the rm button
+2024-06-28 17:19:52,258 - root - INFO - Clicking the search rm button
+2024-06-28 17:19:54,109 - root - INFO - Clicked the search rm button successfully
+2024-06-28 17:19:54,125 - root - INFO - Entering element to be searched
+2024-06-28 17:19:54,226 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 17:19:54,226 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 17:19:54,343 - root - INFO - Clicking the search button
+2024-06-28 17:19:54,361 - root - INFO - Search Raw material - Passed
+2024-06-28 17:20:09,363 - root - INFO - Waiting for the delete button to be clickable
+2024-06-28 17:20:09,442 - root - INFO - Clicking the delete button
+2024-06-28 17:20:09,459 - root - INFO - Waiting to click the YES confirm delete button
+2024-06-28 17:20:09,960 - root - INFO - Clicked the yes button
+2024-06-28 17:20:09,991 - root - INFO - Delete Raw material - Passed
+2024-06-28 17:20:24,993 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:20:25,050 - root - INFO - Clicking the rm button
+2024-06-28 17:20:25,136 - root - INFO - Clicking the search rm button
+2024-06-28 17:20:26,977 - root - INFO - Clicked the search rm button successfully
+2024-06-28 17:20:26,987 - root - INFO - Entering element to be searched
+2024-06-28 17:20:27,046 - root - INFO - Raw Material to be searched is enetered in the field
+2024-06-28 17:20:27,047 - root - INFO - Waiting for the search button to be clickable
+2024-06-28 17:20:27,107 - root - INFO - Clicking the search button
+2024-06-28 17:20:27,144 - root - INFO - Search Raw material - Passed
+2024-06-28 17:20:45,780 - root - INFO - Logout - Passed
+2024-06-28 17:20:45,780 - root - INFO - Logout successful for Raw Material Test 02
+2024-06-28 17:20:55,678 - root - INFO - Login - Passed
+2024-06-28 17:20:55,680 - root - INFO - Login successful for Raw Material Test 03
+2024-06-28 17:20:55,681 - root - INFO - Waiting for the rm button to be clickable
+2024-06-28 17:20:55,737 - root - INFO - Clicking the rm button
+2024-06-28 17:20:55,826 - root - INFO - Clicking the search rm button
+2024-06-28 17:20:57,379 - root - INFO - Clicked the search rm button successfully
+2024-06-28 17:20:57,391 - root - INFO - Click field
+2024-06-28 17:20:57,501 - root - INFO - Clicking the search button
+2024-06-28 17:20:57,517 - root - INFO - Waiting for the auto-generated raw material code to be visible
+2024-06-28 17:20:58,651 - root - INFO - Auto-generated product code: AC11091
+2024-06-28 17:20:58,652 - root - INFO - Empty search- Passed 
+2024-06-28 17:20:58,686 - root - INFO - Clicking the RM label
+2024-06-28 17:20:58,787 - root - INFO - Clicking the costs label
+2024-06-28 17:20:59,483 - root - INFO - Clicked the costs button successfully
+2024-06-28 17:20:59,484 - root - INFO - 0 elements found in costs
+2024-06-28 17:20:59,485 - root - INFO - Creating new Costs
+2024-06-28 17:20:59,532 - root - INFO - Clicking the create new costs button
+2024-06-28 17:20:59,602 - root - INFO - Created new cost successfully
+2024-06-28 17:21:00,085 - root - INFO - Searching for the RM in costs
+2024-06-28 17:21:01,840 - root - INFO - Auto-completed the required element successfully
+2024-06-28 17:21:01,942 - root - INFO - Custon code entered successfully
+2024-06-28 17:21:01,943 - root - INFO - Waiting for the create costs button to be clickable 
+2024-06-28 17:21:01,991 - root - INFO - Clicking the create button
+2024-06-28 17:21:02,008 - root - INFO - Successfully created costs
+2024-06-28 17:21:02,009 - root - INFO - Create costs - Passed
+2024-06-28 17:21:17,047 - root - INFO - Enter cost to be searched
+2024-06-28 17:21:17,215 - root - INFO - Clicking the search costs button
+2024-06-28 17:21:17,230 - root - INFO - Searched cost successfully
+2024-06-28 17:21:17,231 - root - INFO - Search cost - Passed
+2024-06-28 17:21:32,300 - root - INFO - Clicking the RM label
+2024-06-28 17:21:32,403 - root - INFO - Clicking the organoleptics element
+2024-06-28 17:21:33,864 - root - INFO - 48 elements found in organoleptics
+2024-06-28 17:21:33,883 - root - INFO - Entering the RM code
+2024-06-28 17:21:33,997 - root - INFO - RM code of the rm is entered in the field
+2024-06-28 17:21:34,015 - root - INFO - Entering the RM name
+2024-06-28 17:21:34,086 - root - INFO - RM name of the rm is entered in the field
+2024-06-28 17:21:34,136 - root - INFO - Clicking the search button
+2024-06-28 17:21:34,153 - root - INFO - Searched the organoleptics element successfully
+2024-06-28 17:21:34,153 - root - INFO - Search organoleptics - Passed
+2024-06-28 17:22:01,258 - root - INFO - Logout - Passed
+2024-06-28 17:22:01,258 - root - INFO - Logout successful for Raw Material Test 03
+2024-08-01 21:26:04,502 - root - ERROR - Login - Failed
+2024-08-01 21:26:04,540 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:26:04,543 - root - ERROR - Login - Failed
+2024-08-01 21:26:04,543 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:26:04,545 - root - ERROR - Login - Failed
+2024-08-01 21:26:04,545 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:27:43,491 - root - ERROR - Login - Failed
+2024-08-01 21:27:43,494 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:27:43,501 - root - ERROR - Login - Failed
+2024-08-01 21:27:43,502 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:27:43,505 - root - ERROR - Login - Failed
+2024-08-01 21:27:43,506 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:28:07,307 - root - ERROR - Login - Failed
+2024-08-01 21:28:07,309 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:28:07,312 - root - ERROR - Login - Failed
+2024-08-01 21:28:07,312 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:28:07,314 - root - ERROR - Login - Failed
+2024-08-01 21:28:07,314 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:28:13,907 - root - ERROR - Login - Failed
+2024-08-01 21:28:13,908 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:28:13,911 - root - ERROR - Login - Failed
+2024-08-01 21:28:13,911 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:28:13,913 - root - ERROR - Login - Failed
+2024-08-01 21:28:13,913 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:28:46,855 - root - ERROR - Login - Failed
+2024-08-01 21:28:46,860 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:28:46,877 - root - ERROR - Login - Failed
+2024-08-01 21:28:46,878 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:28:46,880 - root - ERROR - Login - Failed
+2024-08-01 21:28:46,880 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:29:41,317 - root - ERROR - Login - Failed
+2024-08-01 21:29:41,333 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:29:41,367 - root - ERROR - Login - Failed
+2024-08-01 21:29:41,383 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:29:41,403 - root - ERROR - Login - Failed
+2024-08-01 21:29:41,408 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:31:59,320 - root - ERROR - Login - Failed
+2024-08-01 21:31:59,325 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:31:59,328 - root - ERROR - Login - Failed
+2024-08-01 21:31:59,329 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:31:59,339 - root - ERROR - Login - Failed
+2024-08-01 21:31:59,341 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:32:42,657 - root - ERROR - Login - Failed
+2024-08-01 21:32:42,658 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:32:42,663 - root - ERROR - Login - Failed
+2024-08-01 21:32:42,678 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:32:42,692 - root - ERROR - Login - Failed
+2024-08-01 21:32:42,703 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:34:15,561 - root - ERROR - Login - Failed
+2024-08-01 21:34:15,562 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:34:19,686 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DB092CE9F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e6ec6f6d46d562d4617c1ba3ebef1724/url
+2024-08-01 21:34:23,773 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DB092CEC30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e6ec6f6d46d562d4617c1ba3ebef1724/url
+2024-08-01 21:34:27,855 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DB092CF1A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e6ec6f6d46d562d4617c1ba3ebef1724/url
+2024-08-01 21:34:31,946 - root - ERROR - Login - Failed
+2024-08-01 21:34:31,946 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:34:36,053 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DB092CF770>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e6ec6f6d46d562d4617c1ba3ebef1724/url
+2024-08-01 21:34:40,124 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DB091FBA40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e6ec6f6d46d562d4617c1ba3ebef1724/url
+2024-08-01 21:34:44,212 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DB092CFFB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e6ec6f6d46d562d4617c1ba3ebef1724/url
+2024-08-01 21:34:48,295 - root - ERROR - Login - Failed
+2024-08-01 21:34:48,296 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:37:22,296 - root - ERROR - Login - Failed
+2024-08-01 21:37:22,297 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:37:22,434 - root - ERROR - Login - Failed
+2024-08-01 21:37:22,434 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:37:22,576 - root - ERROR - Login - Failed
+2024-08-01 21:37:22,577 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:37:30,598 - root - ERROR - Login - Failed
+2024-08-01 21:37:30,599 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:37:30,745 - root - ERROR - Login - Failed
+2024-08-01 21:37:30,745 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:37:30,867 - root - ERROR - Login - Failed
+2024-08-01 21:37:30,867 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 21:38:21,376 - root - ERROR - Login - Failed
+2024-08-01 21:38:21,376 - root - ERROR - Login - Failed
+2024-08-01 21:38:21,376 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 21:38:54,415 - root - ERROR - Login - Failed
+2024-08-01 21:38:54,417 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 21:38:54,425 - root - ERROR - Login - Failed
+2024-08-01 21:38:54,428 - root - ERROR - Login failed for Raw Material Test 03
+2024-08-01 22:06:05,250 - root - ERROR - Login - Failed
+2024-08-01 22:06:05,252 - root - ERROR - Login failed for Raw Material Test 01
+2024-08-01 22:06:05,333 - root - ERROR - Login - Failed
+2024-08-01 22:06:05,351 - root - ERROR - Login failed for Raw Material Test 02
+2024-08-01 22:06:05,400 - root - ERROR - Login - Failed
+2024-08-01 22:06:05,401 - root - ERROR - Login failed for Raw Material Test 03
+2025-06-21 11:49:41,551 - root - INFO - Login - Passed
+2025-06-21 11:49:41,551 - root - INFO - Login successful for Raw Material Test 01
+2025-06-21 11:49:41,714 - root - INFO - Waiting for the rm button to be clickable
+2025-06-21 11:49:41,717 - root - ERROR - An error occurred while creating raw material: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7fdc1cda5+78885]
+	GetHandleVerifier [0x0x7ff7fdc1ce00+78976]
+	(No symbol) [0x0x7ff7fd9d9bca]
+	(No symbol) [0x0x7ff7fd9b1e71]
+	(No symbol) [0x0x7ff7fda6039e]
+	(No symbol) [0x0x7ff7fda80b42]
+	(No symbol) [0x0x7ff7fda58963]
+	(No symbol) [0x0x7ff7fda216b1]
+	(No symbol) [0x0x7ff7fda22443]
+	GetHandleVerifier [0x0x7ff7fdef4eed+3061101]
+	GetHandleVerifier [0x0x7ff7fdeef33d+3037629]
+	GetHandleVerifier [0x0x7ff7fdf0e592+3165202]
+	GetHandleVerifier [0x0x7ff7fdc3730e+186766]
+	GetHandleVerifier [0x0x7ff7fdc3eb3f+217535]
+	GetHandleVerifier [0x0x7ff7fdc259b4+114740]
+	GetHandleVerifier [0x0x7ff7fdc25b69+115177]
+	GetHandleVerifier [0x0x7ff7fdc0c368+10728]
+	BaseThreadInitThunk [0x0x7ffb34e4259d+29]
+	RtlUserThreadStart [0x0x7ffb3554af58+40]
+
+2025-06-21 11:49:41,793 - root - ERROR - Raw Material creation unsuccessful
+2025-06-21 11:49:46,833 - root - ERROR - An error occurred while creating raw material: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.104)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7fdc1cda5+78885]
+	GetHandleVerifier [0x0x7ff7fdc1ce00+78976]
+	(No symbol) [0x0x7ff7fd9d9bca]
+	(No symbol) [0x0x7ff7fd9b1e71]
+	(No symbol) [0x0x7ff7fda6039e]
+	(No symbol) [0x0x7ff7fda80b42]
+	(No symbol) [0x0x7ff7fda58963]
+	(No symbol) [0x0x7ff7fda216b1]
+	(No symbol) [0x0x7ff7fda22443]
+	GetHandleVerifier [0x0x7ff7fdef4eed+3061101]
+	GetHandleVerifier [0x0x7ff7fdeef33d+3037629]
+	GetHandleVerifier [0x0x7ff7fdf0e592+3165202]
+	GetHandleVerifier [0x0x7ff7fdc3730e+186766]
+	GetHandleVerifier [0x0x7ff7fdc3eb3f+217535]
+	GetHandleVerifier [0x0x7ff7fdc259b4+114740]
+	GetHandleVerifier [0x0x7ff7fdc25b69+115177]
+	GetHandleVerifier [0x0x7ff7fdc0c368+10728]
+	BaseThreadInitThunk [0x0x7ffb34e4259d+29]
+	RtlUserThreadStart [0x0x7ffb3554af58+40]
+
+2025-06-21 11:49:46,835 - root - ERROR - Raw Material creation unsuccessful

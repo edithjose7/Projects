@@ -1,0 +1,53 @@
+Test Case 1: Login Page
+Test Case 1.1: valid - PASSED
+Test Case 1.2: wrong username - PASSED
+Test Case 1.3: wrong password - PASSED
+Test Case 1.4: both invalid - PASSED
+Test Case 1.5: empty fields - PASSED
+Test Case 1.6: sql injection - PASSED
+
+Test Case 2: Product Page
+Test Case 2.1: Mandatory fields - PASSED
+Test Case 2.2: Empty Mandatory fields - PASSED
+Test Case 2.3: Automation of code - PASSED
+Test Case 2.4: Manually entering code - PASSED
+Test Case 2.5: Re-entering used code - PASSED
+Test Case 2.6: Cancelling the creation - PASSED
+
+Test Case 3: Search Page
+Test Case 3.1: Searching for the auto-generated product code
+Test Case 3.2: Delete the searched code
+Test Case 3.3: Search for the deleted product
+
+Test Case 4: Customer Codes Page
+Test Case 4.1: Creating by entering only mandatory fields
+Test Case 4.2: Empty mandatory fields
+Test Case 4.3: Automation of code
+Test Case 4.4: Searching for a customer code
+
+Test Case 5: Synonym Page
+Test Case 5.1: Searching for a Synonym
+
+Test Case 6: Development Page
+Test Case 6.1: Creating a new Development
+
+Test Case 7: Raw Materials Page
+Test Case 7.1: Mandatory fields - PASSED
+Test Case 7.2: Empty Mandatory fields - PASSED
+Test Case 7.3: Automation of code - PASSED
+Test Case 7.4: Manually entering code - PASSED
+Test Case 7.5: Re-entering used code - PASSED
+Test Case 7.6: Cancelling the creation - PASSED
+
+Test Case 8: Search Page
+Test Case 8.1: Searching for the auto-generated RM code - PASSED
+Test Case 8.2: Delete the searched code - PASSED
+Test Case 8.3: Search for the deleted RM - PASSED
+Test Case 8.4: Empty search to extract auto-generted code 
+
+Test Case 9: Costs Page
+Test Case 9.1: Create Costs
+Test Case 9.2: Search Costs
+
+Test Case 10: Organoleptics Page
+Test Case 10.1: Search a raw material containing Organoleptics

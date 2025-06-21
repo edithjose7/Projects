@@ -1,0 +1,120 @@
+login:
+  login_url: "https://128.199.177.68:30443/login"
+  username: "edith"
+  password: "edith@1234"
+  new_url: "https://128.199.177.68:30443/login/Product"
+  last_url: "https://128.199.177.68:30443/login"
+
+urls:
+  home_url: "https://128.199.177.68:30443/product/list"
+
+product:
+  product_name: ""
+  product_code: "P123"
+  version: "1.0"
+  SAP_code: "SAP12345"
+  tariff_HSN: "21069099"
+  comments: "Contains no artificial colors or flavors."
+  MDG_change_request: "MDG-2024-001"
+  identification: "Milk, and beverages made from soy or cereals"
+  version: "V3"
+  option: "Flavour"
+  sub_type: " "
+  schedule_tag: " "
+  brand: " "
+
+customer:
+  customer_code: "P0123"
+  customer_product_name: "Vanilla Bean Ice Cream"
+  submission_type: "Online"
+  customer_application: "Flavour"
+  sales_manager: "mtest"
+  recommended_dose_rate: "20%"
+  sap_code: "C123"
+  comments: "This is a sample customer code"
+  search: "te"
+  search_code_num: "CC00111"
+  search_text: "tes"
+
+customer_details:
+  title: "Ms."
+  customer_name: "test"
+  address_line1: "#1, MG Road"
+  city: "Bangalore"
+  state: "Karnataka"
+  pin_code: "560001"
+  country: "India"
+  company_phone1: "1234567890"
+
+contact_details:
+  contact_name: "tester"
+  contact_phone1: "1234567890"
+  contact_email1: "test@gmail.com"
+
+development:
+  dev_name: "new flavor"
+  code: "D0123"
+
+synonym:
+  search_synonym: "A1VF"
+
+raw_material:
+  #login credentials
+  login_url: "https://128.199.177.68:30443/login"
+  username: "edith"
+  password: "edith@1234"
+  new_url: "https://128.199.177.68:30443/product"
+  url: "https://128.199.177.68:30443/linked_to/new"
+
+  #create raw materials
+  code_create_rm: "E7485"
+  rawmaterial_name: "Precious Metals"
+  SAP_code: "123456"
+  chemical_name: "Gold"
+  printed_name: "N/A"
+  Ingredient_description: "Pure Gold"
+  Characterising_component_percentage: "100"
+  cas_number: "87-90-8"
+  cas_number2: "N/A"
+  fema_number: " "
+  fda_number: "IRW 2671-203-320-06"
+  CoE_number: " "
+  EC_no: "231-165-9"
+  EC_no2: " "
+  INS_number: "175"
+  Enzyme_Commission_number: "N/A"
+  H_number: "N/A"
+  E_number: "E175"
+  FL_number: " "
+  JECFA_number: "N/A"
+  IOFI: " " 
+  Tariff_HSN_classification: "7108.13.00"
+  molecular_weight: "196.97 g/mol"
+  formula: "Au"
+  botanical_name: "none"
+  legal_status: "Artificial"
+  FDA_status: "FDA Natural"
+  EU_status: "Flavourings"
+  
+  #create organoleptics
+  create_family: 
+  #search raw materials
+  rm_element_to_be_searched: "R7845"
+  raw_material_code:
+
+  #search organoleptics
+  RM_code_organoleptics: "AC10859"
+  RM_name_organoleptics: ""
+  enter_odour_organoleptics: ""
+  enter_taste_organoleptics: ""
+  enter_note_organoleptics: ""
+  enter_search_organoleptics: ""
+  
+  #create/search costs
+  search_costs: "AC10897"
+  enter_custom_costs: "29.9"
+  cost_to_be_searched: "AC10859"
+
+  #flavour development
+  fema_no_flavour: "12355"
+  enter_flavour: "EEE"

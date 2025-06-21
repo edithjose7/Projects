@@ -1,0 +1,46 @@
+2024-06-06 14:20:49,970 - root - INFO - Opening the login page
+2024-06-06 14:20:51,815 - root - INFO - Waiting for the username field to be present
+2024-06-06 14:20:51,917 - root - INFO - Entering username
+2024-06-06 14:20:52,165 - root - INFO - Finding the password field
+2024-06-06 14:20:52,210 - root - INFO - Entering password
+2024-06-06 14:20:52,406 - root - INFO - Waiting for the login button to be clickable
+2024-06-06 14:20:52,421 - root - ERROR - An error occurred: Unsuccessful login
+2024-06-06 14:20:52,423 - root - ERROR - Login failed. Exiting...
+2024-06-06 14:21:55,926 - root - INFO - Closed the WebDriver
+2024-06-06 14:22:07,973 - root - INFO - Opening the login page
+2024-06-06 14:22:13,701 - root - INFO - Waiting for the username field to be present
+2024-06-06 14:22:13,753 - root - INFO - Entering username
+2024-06-06 14:22:13,865 - root - INFO - Finding the password field
+2024-06-06 14:22:13,886 - root - INFO - Entering password
+2024-06-06 14:22:14,149 - root - INFO - Waiting for the login button to be clickable
+2024-06-06 14:22:14,287 - root - INFO - Scrolling to the login button
+2024-06-06 14:22:14,302 - root - INFO - Clicking the login button
+2024-06-06 14:22:24,081 - root - INFO - Login successful and navigated to products page
+2024-06-06 14:22:24,082 - root - INFO - Proceeding to additional actions...
+2024-06-06 14:22:24,082 - root - INFO - Navigating to the products page
+2024-06-06 14:22:24,278 - root - INFO - Entering search query
+2024-06-06 14:22:34,663 - root - ERROR - An error occurred while searching for the product: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF72B851F52+60322]
+	(No symbol) [0x00007FF72B7CCEC9]
+	(No symbol) [0x00007FF72B687EBA]
+	(No symbol) [0x00007FF72B6D7676]
+	(No symbol) [0x00007FF72B6D773C]
+	(No symbol) [0x00007FF72B71E967]
+	(No symbol) [0x00007FF72B6FC25F]
+	(No symbol) [0x00007FF72B71BC80]
+	(No symbol) [0x00007FF72B6FBFC3]
+	(No symbol) [0x00007FF72B6C9617]
+	(No symbol) [0x00007FF72B6CA211]
+	GetHandleVerifier [0x00007FF72BB694AD+3301629]
+	GetHandleVerifier [0x00007FF72BBB36D3+3605283]
+	GetHandleVerifier [0x00007FF72BBA9450+3563680]
+	GetHandleVerifier [0x00007FF72B904326+790390]
+	(No symbol) [0x00007FF72B7D750F]
+	(No symbol) [0x00007FF72B7D3404]
+	(No symbol) [0x00007FF72B7D3592]
+	(No symbol) [0x00007FF72B7C2F9F]
+	BaseThreadInitThunk [0x00007FFA5CC2257D+29]
+	RtlUserThreadStart [0x00007FFA5E88AA48+40]
+
+2024-06-06 14:22:37,991 - root - INFO - Closed the WebDriver

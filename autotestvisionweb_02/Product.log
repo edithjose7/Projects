@@ -1,0 +1,483 @@
+2024-06-11 15:25:37,688 - root - INFO - Opening the login page
+2024-06-11 15:25:38,495 - root - INFO - Zooming out the screen
+2024-06-11 15:25:43,044 - root - INFO - Waiting for the username field to be present
+2024-06-11 15:25:43,164 - root - INFO - Entering username
+2024-06-11 15:25:43,330 - root - INFO - Finding the password field
+2024-06-11 15:25:43,347 - root - INFO - Entering password
+2024-06-11 15:25:43,604 - root - INFO - Waiting for the login button to be clickable
+2024-06-11 15:25:43,698 - root - INFO - Scrolling to the login button
+2024-06-11 15:25:43,708 - root - INFO - Clicking the login button
+2024-06-11 15:25:50,275 - root - INFO - Login successful and navigated to products page
+2024-06-11 15:25:50,276 - root - INFO - Proceeding to additional actions
+
+TEST CASE 1
+2024-06-11 15:25:50,276 - root - INFO - Test Case 1: Creating product with auto-generated code
+2024-06-11 15:25:50,277 - root - INFO - Clicking the product button
+2024-06-11 15:25:50,387 - root - INFO - Clicking the new button
+2024-06-11 15:25:52,235 - root - INFO - Entering product name
+2024-06-11 15:25:52,412 - root - INFO - Entering SAP Code
+2024-06-11 15:25:52,526 - root - INFO - Clicking the Type dropdown
+2024-06-11 15:25:52,665 - root - INFO - clicked exclusive
+2024-06-11 15:25:52,765 - root - INFO - Marked Exclusive
+2024-06-11 15:25:52,765 - root - INFO - clicked price listed
+2024-06-11 15:25:52,839 - root - INFO - Marked: Price Listed
+2024-06-11 15:25:52,840 - root - INFO - clicked NPI Completed
+2024-06-11 15:25:52,904 - root - INFO - Marked: NPI completed
+2024-06-11 15:25:52,906 - root - INFO - Entering Tariff/HSN Classification
+2024-06-11 15:25:53,018 - root - INFO - Clicking the Identification dropdown
+2024-06-11 15:25:53,134 - root - INFO - Entering Comments
+2024-06-11 15:25:53,444 - root - INFO - Entering MDG Change Request
+2024-06-11 15:25:53,680 - root - INFO - Clicking the create button
+2024-06-11 15:26:08,420 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-11 15:26:08,463 - root - INFO - Navigating back to home
+
+TEST CASE 2
+2024-06-11 15:26:15,263 - root - INFO - Test Case 2: Creating product with manual code entry
+2024-06-11 15:26:15,264 - root - INFO - Clicking the product button
+2024-06-11 15:26:16,521 - root - INFO - Clicking the new button
+2024-06-11 15:26:19,121 - root - INFO - Entering product name
+2024-06-11 15:26:19,905 - root - INFO - Turning off auto-generate code
+2024-06-11 15:26:20,331 - root - INFO - Auto-generate code turned off
+2024-06-11 15:26:20,336 - root - INFO - Entering the Code
+2024-06-11 15:26:20,489 - root - INFO - Entering the Version
+2024-06-11 15:26:20,607 - root - INFO - Entering SAP Code
+2024-06-11 15:26:20,745 - root - INFO - Clicking the Type dropdown
+2024-06-11 15:26:21,138 - root - INFO - clicked exclusive
+2024-06-11 15:26:21,300 - root - INFO - Marked Exclusive
+2024-06-11 15:26:21,301 - root - INFO - clicked price listed
+2024-06-11 15:26:21,395 - root - INFO - Marked: Price Listed
+2024-06-11 15:26:21,396 - root - INFO - clicked NPI Completed
+2024-06-11 15:26:21,568 - root - INFO - Marked: NPI completed
+2024-06-11 15:26:21,570 - root - INFO - Entering Tariff/HSN Classification
+2024-06-11 15:26:21,688 - root - INFO - Clicking the Identification dropdown
+2024-06-11 15:26:21,831 - root - INFO - Entering Comments
+2024-06-11 15:26:22,099 - root - INFO - Entering MDG Change Request
+2024-06-11 15:26:22,393 - root - INFO - Clicking the create button
+2024-06-11 15:26:36,998 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-11 15:26:38,298 - root - INFO - Clicking Configure label
+2024-06-11 15:26:42,046 - root - INFO - Selection logout from the drop_down menu
+2024-06-11 15:26:43,619 - root - INFO - Logging out....
+2024-06-11 15:44:31,519 - root - INFO - Closed the WebDriver
+
+TEST CASE 3 2024-06-12 11:15:45,736 - root - INFO - Opening the login page
+2024-06-12 11:15:48,566 - root - INFO - Zooming out the screen
+2024-06-12 11:15:48,619 - root - INFO - Waiting for the username field to be present
+2024-06-12 11:15:48,670 - root - INFO - Entering username
+2024-06-12 11:15:48,824 - root - INFO - Finding the password field
+2024-06-12 11:15:48,865 - root - INFO - Entering password
+2024-06-12 11:15:48,995 - root - INFO - Waiting for the login button to be clickable
+2024-06-12 11:15:49,364 - root - INFO - Scrolling to the login button
+2024-06-12 11:15:49,372 - root - INFO - Clicking the login button
+2024-06-12 11:15:59,607 - root - INFO - Login successful and navigated to products page
+2024-06-12 11:15:59,608 - root - INFO - Proceeding to additional actions
+2024-06-12 11:15:59,608 - root - INFO - Test Case 1: Creating product with auto-generated code
+2024-06-12 11:15:59,610 - root - INFO - Clicking the product button
+2024-06-12 11:15:59,730 - root - INFO - Clicking the new button
+2024-06-12 11:16:02,675 - root - INFO - Entering product name
+2024-06-12 11:16:03,052 - root - INFO - Entering SAP Code
+2024-06-12 11:16:03,422 - root - INFO - Clicking the Type dropdown
+2024-06-12 11:16:03,764 - root - INFO - clicked exclusive
+2024-06-12 11:16:03,888 - root - INFO - Marked Exclusive
+2024-06-12 11:16:03,888 - root - INFO - clicked price listed
+2024-06-12 11:16:03,992 - root - INFO - Marked: Price Listed
+2024-06-12 11:16:03,992 - root - INFO - clicked NPI Completed
+2024-06-12 11:16:04,056 - root - INFO - Marked: NPI completed
+2024-06-12 11:16:04,056 - root - INFO - Entering Tariff/HSN Classification
+2024-06-12 11:16:04,268 - root - INFO - Clicking the Identification dropdown
+2024-06-12 11:16:04,440 - root - INFO - Entering Comments
+2024-06-12 11:16:04,619 - root - INFO - Entering MDG Change Request
+2024-06-12 11:16:04,798 - root - INFO - Clicking the create button
+2024-06-12 11:16:09,845 - root - INFO - product creation cancelled
+2024-06-12 11:16:09,846 - root - INFO - Product created successfully with auto-generated code
+2024-06-12 11:16:09,846 - root - INFO - Navigating back to home
+2024-06-12 11:16:13,964 - root - INFO - Test Case 2: Creating product with manual code entry
+2024-06-12 11:16:13,964 - root - INFO - Clicking the product button
+2024-06-12 11:16:14,048 - root - INFO - Clicking the new button
+2024-06-12 11:16:16,400 - root - INFO - Entering product name
+2024-06-12 11:16:16,518 - root - INFO - Turning off auto-generate code
+2024-06-12 11:16:16,586 - root - INFO - Auto-generate code turned off
+2024-06-12 11:16:16,586 - root - INFO - Entering the Code
+2024-06-12 11:16:16,702 - root - INFO - Entering the Version
+2024-06-12 11:16:16,783 - root - INFO - Entering SAP Code
+2024-06-12 11:16:16,870 - root - INFO - Clicking the Type dropdown
+2024-06-12 11:16:16,958 - root - INFO - clicked exclusive
+2024-06-12 11:16:17,020 - root - INFO - Marked Exclusive
+2024-06-12 11:16:17,021 - root - INFO - clicked price listed
+2024-06-12 11:16:17,083 - root - INFO - Marked: Price Listed
+2024-06-12 11:16:17,083 - root - INFO - clicked NPI Completed
+2024-06-12 11:16:17,145 - root - INFO - Marked: NPI completed
+2024-06-12 11:16:17,145 - root - INFO - Entering Tariff/HSN Classification
+2024-06-12 11:16:17,260 - root - INFO - Clicking the Identification dropdown
+2024-06-12 11:16:17,370 - root - INFO - Entering Comments
+2024-06-12 11:16:17,538 - root - INFO - Entering MDG Change Request
+2024-06-12 11:16:17,676 - root - INFO - Clicking the create button
+2024-06-12 11:16:21,751 - root - INFO - product creation cancelled
+2024-06-12 11:16:21,752 - root - INFO - Product created successfully with manual code
+2024-06-12 11:16:21,808 - root - INFO - Clicking Configure label
+2024-06-12 11:16:21,903 - root - INFO - Selection logout from the drop_down menu
+2024-06-12 11:16:23,683 - root - INFO - Logging out....
+2024-06-12 11:17:07,079 - root - INFO - Closed the WebDriver
+2024-06-12 11:26:55,571 - root - INFO - Opening the login page
+2024-06-12 11:27:06,308 - root - INFO - Zooming out the screen
+2024-06-12 11:27:11,038 - root - INFO - Waiting for the username field to be present
+2024-06-12 11:27:12,264 - root - INFO - Entering username
+2024-06-12 11:27:14,302 - root - INFO - Finding the password field
+2024-06-12 11:27:14,433 - root - INFO - Entering password
+2024-06-12 11:27:15,424 - root - INFO - Waiting for the login button to be clickable
+2024-06-12 11:27:16,042 - root - INFO - Scrolling to the login button
+2024-06-12 11:27:16,079 - root - INFO - Clicking the login button
+2024-06-12 11:27:23,860 - root - INFO - Login successful and navigated to products page
+2024-06-12 11:27:23,860 - root - INFO - Proceeding to additional actions
+2024-06-12 11:27:23,861 - root - INFO - Test Case 1: Creating product with auto-generated code
+2024-06-12 11:27:23,863 - root - INFO - Clicking the product button
+2024-06-12 11:27:23,988 - root - INFO - Clicking the new button
+2024-06-12 11:27:25,874 - root - INFO - Entering product name
+2024-06-12 11:27:26,017 - root - INFO - Entering SAP Code
+2024-06-12 11:27:26,255 - root - INFO - Clicking the Type dropdown
+2024-06-12 11:27:26,417 - root - INFO - clicked exclusive
+2024-06-12 11:27:26,505 - root - INFO - Marked Exclusive
+2024-06-12 11:27:26,506 - root - INFO - clicked price listed
+2024-06-12 11:27:26,600 - root - INFO - Marked: Price Listed
+2024-06-12 11:27:26,600 - root - INFO - clicked NPI Completed
+2024-06-12 11:27:26,673 - root - INFO - Marked: NPI completed
+2024-06-12 11:27:26,673 - root - INFO - Entering Tariff/HSN Classification
+2024-06-12 11:27:26,772 - root - INFO - Clicking the Identification dropdown
+2024-06-12 11:27:26,902 - root - INFO - Entering Comments
+2024-06-12 11:27:27,084 - root - INFO - Entering MDG Change Request
+2024-06-12 11:27:27,237 - root - INFO - Clicking the create button
+2024-06-12 11:27:43,532 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-12 11:27:43,536 - root - INFO - Navigating back to home
+2024-06-12 11:27:47,180 - root - INFO - Test Case 2: Creating product with manual code entry
+2024-06-12 11:27:47,181 - root - INFO - Clicking the product button
+2024-06-12 11:27:47,287 - root - INFO - Clicking the new button
+2024-06-12 11:27:49,308 - root - INFO - Entering product name
+2024-06-12 11:27:49,447 - root - INFO - Turning off auto-generate code
+2024-06-12 11:27:49,530 - root - INFO - Auto-generate code turned off
+2024-06-12 11:27:49,530 - root - INFO - Entering the Code
+2024-06-12 11:27:49,666 - root - INFO - Entering the Version
+2024-06-12 11:27:49,765 - root - INFO - Entering SAP Code
+2024-06-12 11:27:49,893 - root - INFO - Clicking the Type dropdown
+2024-06-12 11:27:50,045 - root - INFO - clicked exclusive
+2024-06-12 11:27:50,112 - root - INFO - Marked Exclusive
+2024-06-12 11:27:50,112 - root - INFO - clicked price listed
+2024-06-12 11:27:50,188 - root - INFO - Marked: Price Listed
+2024-06-12 11:27:50,189 - root - INFO - clicked NPI Completed
+2024-06-12 11:27:50,268 - root - INFO - Marked: NPI completed
+2024-06-12 11:27:50,269 - root - INFO - Entering Tariff/HSN Classification
+2024-06-12 11:27:50,477 - root - INFO - Clicking the Identification dropdown
+2024-06-12 11:27:50,608 - root - INFO - Entering Comments
+2024-06-12 11:27:50,910 - root - INFO - Entering MDG Change Request
+2024-06-12 11:27:51,263 - root - INFO - Clicking the create button
+2024-06-12 11:28:03,835 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-12 11:28:04,000 - root - INFO - Test Case 3: Cancelling product creation
+2024-06-12 11:28:04,001 - root - INFO - Function cancel_product_creation() started
+2024-06-12 11:28:04,002 - root - INFO - Redirecting to the products page
+2024-06-12 11:28:06,469 - root - INFO - Waiting for the new product button to be clickable
+2024-06-12 11:28:16,892 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF76B8C1F52+60322]
+	(No symbol) [0x00007FF76B83CEC9]
+	(No symbol) [0x00007FF76B6F7EBA]
+	(No symbol) [0x00007FF76B747676]
+	(No symbol) [0x00007FF76B74773C]
+	(No symbol) [0x00007FF76B78E967]
+	(No symbol) [0x00007FF76B76C25F]
+	(No symbol) [0x00007FF76B78BC80]
+	(No symbol) [0x00007FF76B76BFC3]
+	(No symbol) [0x00007FF76B739617]
+	(No symbol) [0x00007FF76B73A211]
+	GetHandleVerifier [0x00007FF76BBD94AD+3301629]
+	GetHandleVerifier [0x00007FF76BC236D3+3605283]
+	GetHandleVerifier [0x00007FF76BC19450+3563680]
+	GetHandleVerifier [0x00007FF76B974326+790390]
+	(No symbol) [0x00007FF76B84750F]
+	(No symbol) [0x00007FF76B843404]
+	(No symbol) [0x00007FF76B843592]
+	(No symbol) [0x00007FF76B832F9F]
+	BaseThreadInitThunk [0x00007FFB76A6257D+29]
+	RtlUserThreadStart [0x00007FFB783CAA48+40]
+
+2024-06-12 11:28:16,917 - root - INFO - Function cancel_product_creation() ended
+2024-06-12 11:28:17,053 - root - INFO - Clicking Configure label
+2024-06-12 11:28:17,205 - root - INFO - Selection logout from the drop_down menu
+2024-06-12 11:28:19,090 - root - INFO - Logging out....
+2024-06-12 12:07:13,692 - root - INFO - Closed the WebDriver
+2024-06-13 11:39:17,787 - root - INFO - Opening the login page
+2024-06-13 11:39:25,590 - root - INFO - Zooming out the screen
+2024-06-13 11:39:25,696 - root - INFO - Waiting for the username field to be present
+2024-06-13 11:39:25,785 - root - INFO - Entering username
+2024-06-13 11:39:25,948 - root - INFO - Finding the password field
+2024-06-13 11:39:25,968 - root - INFO - Entering password
+2024-06-13 11:39:26,132 - root - INFO - Waiting for the login button to be clickable
+2024-06-13 11:39:26,573 - root - INFO - Scrolling to the login button
+2024-06-13 11:39:26,591 - root - INFO - Clicking the login button
+2024-06-13 11:40:11,358 - root - INFO - Login successful and navigated to products page
+2024-06-13 11:40:11,361 - root - INFO - Proceeding to additional actions
+2024-06-13 11:40:11,363 - root - INFO - Test Case 1: Creating product with auto-generated code
+2024-06-13 11:40:11,364 - root - INFO - Clicking the product button
+2024-06-13 11:40:11,648 - root - INFO - Clicking the new button
+2024-06-13 11:40:14,142 - root - INFO - Entering product name
+2024-06-13 11:40:14,289 - root - INFO - Entering SAP Code
+2024-06-13 11:40:14,502 - root - INFO - Clicking the Type dropdown
+2024-06-13 11:40:14,676 - root - INFO - clicked exclusive
+2024-06-13 11:40:14,804 - root - INFO - Marked Exclusive
+2024-06-13 11:40:14,805 - root - INFO - clicked price listed
+2024-06-13 11:40:14,898 - root - INFO - Marked: Price Listed
+2024-06-13 11:40:14,900 - root - INFO - clicked NPI Completed
+2024-06-13 11:40:15,055 - root - INFO - Marked: NPI completed
+2024-06-13 11:40:15,057 - root - INFO - Entering Tariff/HSN Classification
+2024-06-13 11:40:15,251 - root - INFO - Clicking the Identification dropdown
+2024-06-13 11:40:15,449 - root - INFO - Entering Comments
+2024-06-13 11:40:15,794 - root - INFO - Entering MDG Change Request
+2024-06-13 11:40:16,029 - root - INFO - Clicking the create button
+2024-06-13 11:40:37,895 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-13 11:40:37,901 - root - INFO - Navigating back to home
+2024-06-13 11:40:41,864 - root - INFO - Test Case 2: Creating product with manual code entry
+2024-06-13 11:40:41,866 - root - INFO - Clicking the product button
+2024-06-13 11:40:42,030 - root - INFO - Clicking the new button
+2024-06-13 11:40:43,862 - root - INFO - Entering product name
+2024-06-13 11:40:44,079 - root - INFO - Turning off auto-generate code
+2024-06-13 11:40:44,262 - root - INFO - Auto-generate code turned off
+2024-06-13 11:40:44,262 - root - INFO - Entering the Code
+2024-06-13 11:40:44,428 - root - INFO - Entering the Version
+2024-06-13 11:40:44,561 - root - INFO - Entering SAP Code
+2024-06-13 11:40:44,728 - root - INFO - Clicking the Type dropdown
+2024-06-13 11:40:44,927 - root - INFO - clicked exclusive
+2024-06-13 11:40:45,089 - root - INFO - Marked Exclusive
+2024-06-13 11:40:45,094 - root - INFO - clicked price listed
+2024-06-13 11:40:45,266 - root - INFO - Marked: Price Listed
+2024-06-13 11:40:45,268 - root - INFO - clicked NPI Completed
+2024-06-13 11:40:45,447 - root - INFO - Marked: NPI completed
+2024-06-13 11:40:45,471 - root - INFO - Entering Tariff/HSN Classification
+2024-06-13 11:40:46,033 - root - INFO - Clicking the Identification dropdown
+2024-06-13 11:40:46,751 - root - INFO - Entering Comments
+2024-06-13 11:40:47,252 - root - INFO - Entering MDG Change Request
+2024-06-13 11:40:47,442 - root - INFO - Clicking the create button
+2024-06-13 11:41:03,060 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-13 11:41:03,061 - root - INFO - Test Case 3: Cancelling product creation
+2024-06-13 11:41:03,063 - root - INFO - Function cancel_product_creation() started
+2024-06-13 11:41:03,064 - root - INFO - Redirecting to the products page
+2024-06-13 11:41:30,919 - root - INFO - Waiting for the new product button to be clickable
+2024-06-13 11:41:41,135 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70A4B1F52+60322]
+	(No symbol) [0x00007FF70A42CEC9]
+	(No symbol) [0x00007FF70A2E7EBA]
+	(No symbol) [0x00007FF70A337676]
+	(No symbol) [0x00007FF70A33773C]
+	(No symbol) [0x00007FF70A37E967]
+	(No symbol) [0x00007FF70A35C25F]
+	(No symbol) [0x00007FF70A37BC80]
+	(No symbol) [0x00007FF70A35BFC3]
+	(No symbol) [0x00007FF70A329617]
+	(No symbol) [0x00007FF70A32A211]
+	GetHandleVerifier [0x00007FF70A7C94AD+3301629]
+	GetHandleVerifier [0x00007FF70A8136D3+3605283]
+	GetHandleVerifier [0x00007FF70A809450+3563680]
+	GetHandleVerifier [0x00007FF70A564326+790390]
+	(No symbol) [0x00007FF70A43750F]
+	(No symbol) [0x00007FF70A433404]
+	(No symbol) [0x00007FF70A433592]
+	(No symbol) [0x00007FF70A422F9F]
+	BaseThreadInitThunk [0x00007FFAE835257D+29]
+	RtlUserThreadStart [0x00007FFAE9FEAF28+40]
+
+2024-06-13 11:41:41,147 - root - INFO - Function cancel_product_creation() ended
+2024-06-13 11:41:41,213 - root - INFO - Clicking Configure label
+2024-06-13 11:41:41,327 - root - INFO - Selection logout from the drop_down menu
+2024-06-13 11:41:44,297 - root - INFO - Logging out....
+2024-06-13 11:42:04,678 - root - INFO - Closed the WebDriver
+2024-06-13 11:42:15,793 - root - INFO - Opening the login page
+2024-06-13 11:42:18,056 - root - INFO - Zooming out the screen
+2024-06-13 11:42:18,084 - root - INFO - Waiting for the username field to be present
+2024-06-13 11:42:18,130 - root - INFO - Entering username
+2024-06-13 11:42:18,348 - root - INFO - Finding the password field
+2024-06-13 11:42:18,448 - root - INFO - Entering password
+2024-06-13 11:42:18,598 - root - INFO - Waiting for the login button to be clickable
+2024-06-13 11:42:18,650 - root - INFO - Scrolling to the login button
+2024-06-13 11:42:18,657 - root - INFO - Clicking the login button
+2024-06-13 11:42:25,562 - root - INFO - Login successful and navigated to products page
+2024-06-13 11:42:25,562 - root - INFO - Proceeding to additional actions
+2024-06-13 11:42:25,562 - root - INFO - Test Case 1: Creating product with auto-generated code
+2024-06-13 11:42:25,564 - root - INFO - Clicking the product button
+2024-06-13 11:42:25,663 - root - INFO - Clicking the new button
+2024-06-13 11:42:27,453 - root - INFO - Entering product name
+2024-06-13 11:42:27,567 - root - INFO - Entering SAP Code
+2024-06-13 11:42:27,721 - root - INFO - Clicking the Type dropdown
+2024-06-13 11:42:27,824 - root - INFO - clicked exclusive
+2024-06-13 11:42:27,898 - root - INFO - Marked Exclusive
+2024-06-13 11:42:27,898 - root - INFO - clicked price listed
+2024-06-13 11:42:27,973 - root - INFO - Marked: Price Listed
+2024-06-13 11:42:27,973 - root - INFO - clicked NPI Completed
+2024-06-13 11:42:28,059 - root - INFO - Marked: NPI completed
+2024-06-13 11:42:28,061 - root - INFO - Entering Tariff/HSN Classification
+2024-06-13 11:42:28,187 - root - INFO - Clicking the Identification dropdown
+2024-06-13 11:42:28,296 - root - INFO - Entering Comments
+2024-06-13 11:42:28,647 - root - INFO - Entering MDG Change Request
+2024-06-13 11:42:28,824 - root - INFO - Clicking the create button
+2024-06-13 11:42:43,569 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-13 11:42:43,572 - root - INFO - Navigating back to home
+2024-06-13 11:42:46,188 - root - INFO - Test Case 2: Creating product with manual code entry
+2024-06-13 11:42:46,189 - root - INFO - Clicking the product button
+2024-06-13 11:42:46,309 - root - INFO - Clicking the new button
+2024-06-13 11:42:47,910 - root - INFO - Entering product name
+2024-06-13 11:42:48,086 - root - INFO - Turning off auto-generate code
+2024-06-13 11:42:48,195 - root - INFO - Auto-generate code turned off
+2024-06-13 11:42:48,196 - root - INFO - Entering the Code
+2024-06-13 11:42:48,337 - root - INFO - Entering the Version
+2024-06-13 11:42:48,530 - root - INFO - Entering SAP Code
+2024-06-13 11:42:48,688 - root - INFO - Clicking the Type dropdown
+2024-06-13 11:42:48,823 - root - INFO - clicked exclusive
+2024-06-13 11:42:48,912 - root - INFO - Marked Exclusive
+2024-06-13 11:42:48,914 - root - INFO - clicked price listed
+2024-06-13 11:42:49,003 - root - INFO - Marked: Price Listed
+2024-06-13 11:42:49,005 - root - INFO - clicked NPI Completed
+2024-06-13 11:42:49,133 - root - INFO - Marked: NPI completed
+2024-06-13 11:42:49,133 - root - INFO - Entering Tariff/HSN Classification
+2024-06-13 11:42:49,358 - root - INFO - Clicking the Identification dropdown
+2024-06-13 11:42:49,499 - root - INFO - Entering Comments
+2024-06-13 11:42:49,841 - root - INFO - Entering MDG Change Request
+2024-06-13 11:42:50,033 - root - INFO - Clicking the create button
+2024-06-13 11:43:02,124 - root - ERROR - An error occurred while creating the product: Message: 
+
+2024-06-13 11:43:02,126 - root - INFO - Test Case 3: Cancelling product creation
+2024-06-13 11:43:02,129 - root - INFO - Function cancel_product_creation() started
+2024-06-13 11:43:02,131 - root - INFO - Redirecting to the products page
+2024-06-13 11:43:04,719 - root - INFO - Waiting for the new product button to be clickable
+2024-06-13 11:43:14,770 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70A4B1F52+60322]
+	(No symbol) [0x00007FF70A42CEC9]
+	(No symbol) [0x00007FF70A2E7EBA]
+	(No symbol) [0x00007FF70A337676]
+	(No symbol) [0x00007FF70A33773C]
+	(No symbol) [0x00007FF70A37E967]
+	(No symbol) [0x00007FF70A35C25F]
+	(No symbol) [0x00007FF70A37BC80]
+	(No symbol) [0x00007FF70A35BFC3]
+	(No symbol) [0x00007FF70A329617]
+	(No symbol) [0x00007FF70A32A211]
+	GetHandleVerifier [0x00007FF70A7C94AD+3301629]
+	GetHandleVerifier [0x00007FF70A8136D3+3605283]
+	GetHandleVerifier [0x00007FF70A809450+3563680]
+	GetHandleVerifier [0x00007FF70A564326+790390]
+	(No symbol) [0x00007FF70A43750F]
+	(No symbol) [0x00007FF70A433404]
+	(No symbol) [0x00007FF70A433592]
+	(No symbol) [0x00007FF70A422F9F]
+	BaseThreadInitThunk [0x00007FFAE835257D+29]
+	RtlUserThreadStart [0x00007FFAE9FEAF28+40]
+
+2024-06-13 11:43:14,778 - root - INFO - Function cancel_product_creation() ended
+2024-06-13 11:43:14,820 - root - INFO - Clicking Configure label
+2024-06-13 11:43:14,918 - root - INFO - Selection logout from the drop_down menu
+2024-06-13 11:43:16,874 - root - INFO - Logging out....
+2024-06-13 11:44:33,527 - root - INFO - Closed the WebDriver
+2024-06-13 11:44:44,802 - root - INFO - Opening the login page
+2024-06-13 11:44:46,903 - root - INFO - Zooming out the screen
+2024-06-13 11:44:46,942 - root - INFO - Waiting for the username field to be present
+2024-06-13 11:44:46,965 - root - INFO - Entering username
+2024-06-13 11:44:47,100 - root - INFO - Finding the password field
+2024-06-13 11:44:47,224 - root - INFO - Entering password
+2024-06-13 11:44:47,372 - root - INFO - Waiting for the login button to be clickable
+2024-06-13 11:44:47,416 - root - INFO - Scrolling to the login button
+2024-06-13 11:44:47,422 - root - INFO - Clicking the login button
+2024-06-13 11:44:53,456 - root - INFO - Login successful and navigated to products page
+2024-06-13 11:44:53,458 - root - INFO - Proceeding to additional actions
+2024-06-13 11:44:53,458 - root - INFO - Test Case 3: Cancelling product creation
+2024-06-13 11:44:53,460 - root - INFO - Function cancel_product_creation() started
+2024-06-13 11:44:53,461 - root - INFO - Redirecting to the products page
+2024-06-13 11:44:56,392 - root - INFO - Waiting for the new product button to be clickable
+2024-06-13 11:45:06,836 - root - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF70A4B1F52+60322]
+	(No symbol) [0x00007FF70A42CEC9]
+	(No symbol) [0x00007FF70A2E7EBA]
+	(No symbol) [0x00007FF70A337676]
+	(No symbol) [0x00007FF70A33773C]
+	(No symbol) [0x00007FF70A37E967]
+	(No symbol) [0x00007FF70A35C25F]
+	(No symbol) [0x00007FF70A37BC80]
+	(No symbol) [0x00007FF70A35BFC3]
+	(No symbol) [0x00007FF70A329617]
+	(No symbol) [0x00007FF70A32A211]
+	GetHandleVerifier [0x00007FF70A7C94AD+3301629]
+	GetHandleVerifier [0x00007FF70A8136D3+3605283]
+	GetHandleVerifier [0x00007FF70A809450+3563680]
+	GetHandleVerifier [0x00007FF70A564326+790390]
+	(No symbol) [0x00007FF70A43750F]
+	(No symbol) [0x00007FF70A433404]
+	(No symbol) [0x00007FF70A433592]
+	(No symbol) [0x00007FF70A422F9F]
+	BaseThreadInitThunk [0x00007FFAE835257D+29]
+	RtlUserThreadStart [0x00007FFAE9FEAF28+40]
+
+2024-06-13 11:45:06,857 - root - INFO - Function cancel_product_creation() ended
+2024-06-13 11:45:06,893 - root - INFO - Clicking Configure label
+2024-06-13 11:45:07,126 - root - INFO - Selection logout from the drop_down menu
+2024-06-13 11:45:07,944 - root - INFO - Logging out....
+2024-06-13 11:51:43,081 - root - INFO - Closed the WebDriver
+2024-06-13 14:05:28,246 - root - INFO - Opening the login page
+2024-06-13 14:05:32,376 - root - INFO - Zooming out the screen
+2024-06-13 14:05:32,564 - root - INFO - Waiting for the username field to be present
+2024-06-13 14:05:32,649 - root - INFO - Entering username
+2024-06-13 14:05:32,798 - root - INFO - Finding the password field
+2024-06-13 14:05:32,818 - root - INFO - Entering password
+2024-06-13 14:05:32,980 - root - INFO - Waiting for the login button to be clickable
+2024-06-13 14:05:33,284 - root - INFO - Scrolling to the login button
+2024-06-13 14:05:33,321 - root - INFO - Clicking the login button
+2024-06-13 14:06:28,788 - root - INFO - Login successful and navigated to products page
+2024-06-13 14:06:28,792 - root - INFO - Proceeding to additional actions
+2024-06-13 14:06:28,792 - root - INFO - Test Case 3: Cancelling product creation with Auto generate on
+2024-06-13 14:06:28,793 - root - INFO - Clicking the product button
+2024-06-13 14:06:28,974 - root - INFO - Clicking the new button
+2024-06-13 14:06:31,309 - root - INFO - Entering product name
+2024-06-13 14:06:31,508 - root - INFO - Entering SAP Code
+2024-06-13 14:06:31,701 - root - INFO - Clicking the Type dropdown
+2024-06-13 14:06:31,907 - root - INFO - clicked exclusive
+2024-06-13 14:06:32,027 - root - INFO - Marked Exclusive
+2024-06-13 14:06:32,028 - root - INFO - clicked price listed
+2024-06-13 14:06:32,168 - root - INFO - Marked: Price Listed
+2024-06-13 14:06:32,168 - root - INFO - clicked NPI Completed
+2024-06-13 14:06:32,301 - root - INFO - Marked: NPI completed
+2024-06-13 14:06:32,302 - root - INFO - Entering Tariff/HSN Classification
+2024-06-13 14:06:32,441 - root - INFO - Clicking the Identification dropdown
+2024-06-13 14:06:32,625 - root - INFO - Entering Comments
+2024-06-13 14:06:33,007 - root - INFO - Entering MDG Change Request
+2024-06-13 14:06:33,266 - root - INFO - Clicking the cancel button
+2024-06-13 14:07:06,489 - root - INFO - Product creation canceled
+2024-06-13 14:07:11,495 - root - INFO - Function cancel_product_creation() ended
+2024-06-13 14:07:11,498 - root - INFO - Test Case 3: Cancelling product creation with Auto generate off
+2024-06-13 14:07:11,501 - root - INFO - Clicking the product button
+2024-06-13 14:07:12,361 - root - INFO - Clicking the new button
+2024-06-13 14:07:17,655 - root - INFO - Entering product name
+2024-06-13 14:07:17,850 - root - INFO - Turning off auto-generate code
+2024-06-13 14:07:18,026 - root - INFO - Auto-generate code turned off
+2024-06-13 14:07:18,029 - root - INFO - Entering the Code
+2024-06-13 14:07:18,233 - root - INFO - Entering the Version
+2024-06-13 14:07:18,351 - root - INFO - Entering SAP Code
+2024-06-13 14:07:18,533 - root - INFO - Clicking the Type dropdown
+2024-06-13 14:07:18,827 - root - INFO - clicked exclusive
+2024-06-13 14:07:18,965 - root - INFO - Marked Exclusive
+2024-06-13 14:07:18,967 - root - INFO - clicked price listed
+2024-06-13 14:07:19,073 - root - INFO - Marked: Price Listed
+2024-06-13 14:07:19,074 - root - INFO - clicked NPI Completed
+2024-06-13 14:07:19,249 - root - INFO - Marked: NPI completed
+2024-06-13 14:07:19,250 - root - INFO - Entering Tariff/HSN Classification
+2024-06-13 14:07:19,425 - root - INFO - Clicking the Identification dropdown
+2024-06-13 14:07:19,959 - root - INFO - Entering Comments
+2024-06-13 14:07:20,350 - root - INFO - Entering MDG Change Request
+2024-06-13 14:07:20,714 - root - INFO - Clicking the cancel button
+2024-06-13 14:07:31,215 - root - INFO - Product creation canceled
+2024-06-13 14:07:36,217 - root - INFO - Function cancel_product_creation() ended
+2024-06-13 14:07:36,367 - root - INFO - Clicking Configure label
+2024-06-13 14:07:37,146 - root - INFO - Selection logout from the drop_down menu
+2024-06-13 14:07:57,846 - root - INFO - Logging out....
+2024-06-13 14:09:25,302 - root - INFO - Closed the WebDriver
